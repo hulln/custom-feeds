@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SlovLit</title>
+    <link>https://mailman.ijs.si/pipermail/slovlit/</link>
+    <description>Neuradni RSS za javni arhiv poštnega seznama SlovLit.</description>
+    <language>sl</language>
+    <atom:link href="https://raw.githubusercontent.com/hulln/slovlit-rss/main/feed.xml" rel="self" type="application/rss+xml" />
+    <item><title>[SlovLit] Kristina Hafner -- Igor Ebanoidze -- Prevajalska delavnica</title><link>https://mailman.ijs.si/pipermail/slovlit/2026/008895.html</link><guid isPermaLink="true">https://mailman.ijs.si/pipermail/slovlit/2026/008895.html</guid></item>
+    <item><title>[SlovLit] Kristina (Krista) Hafner -- Žirovsko naglasoslovje v Journal of Phonetics</title><link>https://mailman.ijs.si/pipermail/slovlit/2026/008894.html</link><guid isPermaLink="true">https://mailman.ijs.si/pipermail/slovlit/2026/008894.html</guid></item>
+    <item><title>[SlovLit] Revija Umanistica digitale -- Mesto za NLP v Gradcu -- Slovit pošta</title><link>https://mailman.ijs.si/pipermail/slovlit/2026/008893.html</link><guid isPermaLink="true">https://mailman.ijs.si/pipermail/slovlit/2026/008893.html</guid></item>
+    <item><title>[SlovLit] Jubilejna številka Jezika in slovstva, 71/1–2 -- Ozhe v' miru Boshjim pozhivajte -- Prosto dostopna in prosto uporabna dediščina</title><link>https://mailman.ijs.si/pipermail/slovlit/2026/008892.html</link><guid isPermaLink="true">https://mailman.ijs.si/pipermail/slovlit/2026/008892.html</guid></item>
+    <item><title>[SlovLit] Sovretov kabinet julija -- Dediščinska znanost -- Nova številka revije Stridon -- Novičnik DSKP</title><link>https://mailman.ijs.si/pipermail/slovlit/2026/008891.html</link><guid isPermaLink="true">https://mailman.ijs.si/pipermail/slovlit/2026/008891.html</guid></item>
+  </channel>
+</rss>
