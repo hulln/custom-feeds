@@ -55,51 +55,36 @@ def linkify(text: str) -> str:
 
 
 def normalise_lines(text: str) -> list[str]:
-    # Pipermail wraps plain-text mail at a fixed width. Keep explicit blank
-    # lines (they carry paragraph structure), but trim trailing whitespace.
     return [line.rstrip() for line in text.replace("\r\n", "\n").replace("\r", "\n").split("\n")]
 
 
 def render_headers(lines: list[str], start: int) -> tuple[str, int]:
     headers: list[tuple[str, str]] = []
     i = start
-
     while i < len(lines):
         match = HEADER_RE.match(lines[i].strip())
         if not match:
             break
-
         raw_label, value = match.groups()
         label = LABELS.get(raw_label.lower(), raw_label)
         value_parts = [value.strip()] if value.strip() else []
         i += 1
-
-        # Header values, especially long subjects, are frequently wrapped by
-        # Pipermail. Continuation lines belong to the current header until the
-        # next recognised header or the blank line that starts the message body.
         while i < len(lines):
             current = lines[i]
             if not current.strip() or HEADER_RE.match(current.strip()) or SEPARATOR_RE.match(current):
                 break
             value_parts.append(current.strip())
             i += 1
-
         headers.append((label, " ".join(value_parts).strip()))
-
         if i < len(lines) and not lines[i].strip():
             break
-
-    rows = []
-    for label, value in headers:
-        rows.append(f"<strong>{html.escape(label)}:</strong> {linkify(value)}")
-
+    rows = [f"<strong>{html.escape(label)}:</strong> {linkify(value)}" for label, value in headers]
     return "<p>" + "<br>\n".join(rows) + "</p>", i
 
 
 def render_body_paragraph(lines: list[str], start: int) -> tuple[str, int]:
     parts: list[str] = []
     i = start
-
     while i < len(lines):
         line = lines[i]
         stripped = line.strip()
@@ -107,7 +92,6 @@ def render_body_paragraph(lines: list[str], start: int) -> tuple[str, int]:
             break
         parts.append(stripped)
         i += 1
-
     return f"<p>{linkify(' '.join(parts))}</p>", i
 
 
@@ -117,46 +101,34 @@ def format_slovlit_html(text: str) -> str:
     i = 0
     has_content = False
     just_separated = False
-
     while i < len(lines):
         line = lines[i]
         stripped = line.strip()
-
         if not stripped:
             i += 1
             continue
-
         if SEPARATOR_RE.match(line):
             if has_content and not just_separated:
                 out.append("<hr>")
                 just_separated = True
             i += 1
             continue
-
         if HEADER_RE.match(stripped):
-            # A new From/Od block after existing content is another source
-            # message inside the same SlovLit digest. Separate it even when
-            # Miran's digest did not include an explicit === line.
             label = HEADER_RE.match(stripped).group(1).lower()
             if label in {"from", "od"} and has_content and not just_separated:
                 out.append("<hr>")
-
             header_html, i = render_headers(lines, i)
             out.append(header_html)
             has_content = True
             just_separated = False
             continue
-
         paragraph_html, i = render_body_paragraph(lines, i)
         if paragraph_html != "<p></p>":
             out.append(paragraph_html)
             has_content = True
             just_separated = False
-
-    # Avoid a dangling separator at the end of an item.
     while out and out[-1] == "<hr>":
         out.pop()
-
     return "\n".join(out)
 
 
@@ -173,13 +145,10 @@ def main() -> None:
         guid = (item.findtext("guid") or url).strip()
         content = item.findtext("description") or ""
         pubdate = to_iso(item.findtext("pubDate") or "")
-
         obj = {
             "id": guid,
             "url": url,
             "title": title,
-            # Keep text as a standards-compliant fallback, while Feeder can use
-            # the structured HTML representation for a much more readable view.
             "content_text": content,
             "content_html": format_slovlit_html(content),
         }
@@ -191,7 +160,7 @@ def main() -> None:
         "version": "https://jsonfeed.org/version/1.1",
         "title": "SlovLit",
         "home_page_url": "https://mailman.ijs.si/pipermail/slovlit/",
-        "feed_url": "https://raw.githubusercontent.com/hulln/slovlit-rss/main/feed.json",
+        "feed_url": "https://raw.githubusercontent.com/hulln/custom-feeds/main/feed.json",
         "description": "Neuradni polnobesedilni feed za javni arhiv poštnega seznama SlovLit.",
         "language": "sl",
         "items": items,
