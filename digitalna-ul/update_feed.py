@@ -12,10 +12,10 @@ from urllib.request import Request, urlopen
 
 SOURCE_URL = "https://www.uni-lj.si/studij/center-digitalna-ul/gradiva/namigi-in-triki/aktualno-dogajanje-na-podrocju-ui-v-izobrazevanju"
 BASE_URL = "https://www.uni-lj.si"
-FEED_URL = "https://raw.githubusercontent.com/hulln/slovlit-rss/main/digitalna-ul/feed.json"
+FEED_URL = "https://raw.githubusercontent.com/hulln/custom-feeds/main/digitalna-ul/feed.json"
 OUTPUT = Path(__file__).with_name("feed.json")
 ITEM_LIMIT = 30
-USER_AGENT = "CustomFeeds/1.0 (+https://github.com/hulln/slovlit-rss)"
+USER_AGENT = "CustomFeeds/1.0 (+https://github.com/hulln/custom-feeds)"
 
 
 class LinkParser(HTMLParser):
@@ -118,7 +118,6 @@ def article_text(url: str) -> str:
     parser = MainTextParser()
     parser.feed(page)
     text = parser.text()
-    # Remove common page furniture if it leaks into <main>.
     for marker in ["Drobtinice", "Hitre povezave", "Kontakt", "Družbena omrežja"]:
         pos = text.find(marker)
         if pos > 500:
@@ -139,7 +138,6 @@ def main() -> None:
         seen.add(url)
         links.append((url, title))
 
-    # The source page is newest-first; keep only the most recent entries.
     links = links[:ITEM_LIMIT]
     if not links:
         raise SystemExit("No Digitalna UL newsletter links found")
@@ -151,12 +149,7 @@ def main() -> None:
         except Exception as exc:
             print(f"warning: cannot fetch {url}: {exc}")
             content = title
-        item = {
-            "id": url,
-            "url": url,
-            "title": title,
-            "content_text": content or title,
-        }
+        item = {"id": url, "url": url, "title": title, "content_text": content or title}
         date = extract_date(url)
         if date:
             item["date_published"] = date
