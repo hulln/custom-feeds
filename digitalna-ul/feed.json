@@ -2,7 +2,7 @@
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Center Digitalna UL – UI-novičniki",
   "home_page_url": "https://www.uni-lj.si/studij/center-digitalna-ul/gradiva/namigi-in-triki/aktualno-dogajanje-na-podrocju-ui-v-izobrazevanju",
-  "feed_url": "https://raw.githubusercontent.com/hulln/slovlit-rss/main/digitalna-ul/feed.json",
+  "feed_url": "https://raw.githubusercontent.com/hulln/custom-feeds/main/digitalna-ul/feed.json",
   "description": "Neuradni JSON Feed za UI-novičnike Centra Digitalna UL.",
   "language": "sl",
   "items": [

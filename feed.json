@@ -2,7 +2,7 @@
   "version": "https://jsonfeed.org/version/1.1",
   "title": "SlovLit",
   "home_page_url": "https://mailman.ijs.si/pipermail/slovlit/",
-  "feed_url": "https://raw.githubusercontent.com/hulln/slovlit-rss/main/feed.json",
+  "feed_url": "https://raw.githubusercontent.com/hulln/custom-feeds/main/feed.json",
   "description": "Neuradni polnobesedilni feed za javni arhiv poštnega seznama SlovLit.",
   "language": "sl",
   "items": [
