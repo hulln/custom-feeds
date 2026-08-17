@@ -15,10 +15,10 @@ from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
 ARCHIVE_ROOT = "https://mailman.ijs.si/pipermail/slovlit/"
-FEED_URL = "https://raw.githubusercontent.com/hulln/slovlit-rss/main/feed.xml"
+FEED_URL = "https://raw.githubusercontent.com/hulln/custom-feeds/main/feed.xml"
 SITE_URL = "https://mailman.ijs.si/pipermail/slovlit/"
 ITEM_LIMIT = 30
-USER_AGENT = "SlovLit-RSS/1.0 (+https://github.com/hulln/slovlit-rss)"
+USER_AGENT = "SlovLit-RSS/1.0 (+https://github.com/hulln/custom-feeds)"
 OUTPUT = Path(__file__).with_name("feed.xml")
 
 ATOM_NS = "http://www.w3.org/2005/Atom"
@@ -151,15 +151,8 @@ def extract_pubdate(page):
     if not match:
         return ""
     text = html.unescape(" ".join(re.sub(r"<[^>]+>", " ", match.group(1)).split()))
-    day_map = {
-        "Pon": "Mon", "Tor": "Tue", "Sre": "Wed", "Čet": "Thu", "Cet": "Thu",
-        "Pet": "Fri", "Sob": "Sat", "Ned": "Sun",
-    }
-    month_map = {
-        "Jan": "Jan", "Feb": "Feb", "Mar": "Mar", "Apr": "Apr", "Maj": "May", "May": "May",
-        "Jun": "Jun", "Jul": "Jul", "Avg": "Aug", "Aug": "Aug", "Sep": "Sep",
-        "Okt": "Oct", "Oct": "Oct", "Nov": "Nov", "Dec": "Dec",
-    }
+    day_map = {"Pon": "Mon", "Tor": "Tue", "Sre": "Wed", "Čet": "Thu", "Cet": "Thu", "Pet": "Fri", "Sob": "Sat", "Ned": "Sun"}
+    month_map = {"Jan": "Jan", "Feb": "Feb", "Mar": "Mar", "Apr": "Apr", "Maj": "May", "May": "May", "Jun": "Jun", "Jul": "Jul", "Avg": "Aug", "Aug": "Aug", "Sep": "Sep", "Okt": "Oct", "Oct": "Oct", "Nov": "Nov", "Dec": "Dec"}
     parts = text.split(" ", 1)
     if parts and parts[0] in day_map:
         text = day_map[parts[0]] + (" " + parts[1] if len(parts) > 1 else "")
@@ -180,20 +173,9 @@ def build_feed(items):
     existing = load_existing()
     rss = ET.Element("rss", {"version": "2.0"})
     channel = ET.SubElement(rss, "channel")
-    for tag, text in [
-        ("title", "SlovLit"),
-        ("link", SITE_URL),
-        ("description", "Neuradni RSS za javni arhiv poštnega seznama SlovLit."),
-        ("language", "sl"),
-        ("lastBuildDate", format_datetime(datetime.now(timezone.utc))),
-        ("generator", "SlovLit RSS generator"),
-    ]:
+    for tag, text in [("title", "SlovLit"), ("link", SITE_URL), ("description", "Neuradni RSS za javni arhiv poštnega seznama SlovLit."), ("language", "sl"), ("lastBuildDate", format_datetime(datetime.now(timezone.utc))), ("generator", "SlovLit RSS generator")]:
         ET.SubElement(channel, tag).text = text
-    ET.SubElement(channel, f"{{{ATOM_NS}}}link", {
-        "href": FEED_URL,
-        "rel": "self",
-        "type": "application/rss+xml",
-    })
+    ET.SubElement(channel, f"{{{ATOM_NS}}}link", {"href": FEED_URL, "rel": "self", "type": "application/rss+xml"})
 
     for archive_item in reversed(items):
         cached = existing.get(archive_item.url, {})
