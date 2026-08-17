@@ -1,4 +1,4 @@
-name: Update SlovLit feeds
+name: Update custom feeds
 
 on:
   push:
@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: slovlit-feeds
+  group: custom-feeds
   cancel-in-progress: true
 
 jobs:
@@ -22,18 +22,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Generate RSS and JSON Feed
+      - name: Generate feeds
         run: |
           python update_feed.py
           python update_json.py
+          python digitalna-ul/update_feed.py
       - name: Commit if changed
         run: |
-          if git diff --quiet -- feed.xml feed.json; then
+          if git diff --quiet -- feed.xml feed.json digitalna-ul/feed.json; then
             echo "No changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feed.xml feed.json
-          git commit -m "Update SlovLit feeds"
+          git add feed.xml feed.json digitalna-ul/feed.json
+          git commit -m "Update custom feeds"
           git push
