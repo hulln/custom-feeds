@@ -1,8 +1,6 @@
 name: Update custom feeds
 
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: "17 */4 * * *"
   workflow_dispatch:
