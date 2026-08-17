@@ -30,7 +30,7 @@ jobs:
         run: python digitalna-ul/update_feed.py
       - name: Commit if changed
         run: |
-          if git diff --quiet -- slovlit/feed.xml slovlit/feed.json digitalna-ul/feed.json; then
+          if [ -z "$(git status --porcelain -- slovlit/feed.xml slovlit/feed.json digitalna-ul/feed.json)" ]; then
             echo "No changes."
             exit 0
           fi
