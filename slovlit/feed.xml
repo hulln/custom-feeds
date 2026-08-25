@@ -5,9 +5,95 @@
     <link>https://mailman.ijs.si/pipermail/slovlit/</link>
     <description>Neuradni RSS za javni arhiv poštnega seznama SlovLit.</description>
     <language>sl</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:10:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:54:40 +0000</lastBuildDate>
     <generator>Custom Feeds – SlovLit</generator>
     <atom:link href="https://raw.githubusercontent.com/hulln/custom-feeds/main/slovlit/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[SlovLit] Ana Marwan in Erwin Köstler -- Vabilo na slovenski slavistični kongres 2026</title>
+      <link>https://mailman.ijs.si/pipermail/slovlit/2026/008899.html</link>
+      <guid isPermaLink="false">urn:slovlit:008899:fulltext-v2</guid>
+      <pubDate>25 Aug 2026 16:45:14 +0200</pubDate>
+      <description>https://www.retzhof.at/bildungshaus/bildungsangebot/index.php/seminars/detail?id=521
+-- 150 let Ivana Cankarja: Predstavitev knjig in pogovor z Ano Marwan
+in Erwinom Köstlerjem. Četrtek 27. avgusta 2026 ob 20:30, Dorfstraße
+17, 8435 Wagna.
+
+===
+
+From: "Duša Divjak Race" &lt;dusa.race na zrc-sazu.si&gt;
+To: slovlit na ijs.si
+Date: Tue, 25 Aug 2026 10:41:52 +0200
+Subject: Slovenski slavistični kongres 2026 – vabilo in prijave
+
+Zveza slovenskih slavističnih društev in Slavistično društvo Posavja
+vabita na Slovenski slavistični kongres 2026, ki bo od 1. do 3.
+oktobra 2026 potekal v Brežicah. Letošnja osrednja tema kongresa je
+Razsežnosti jezika in književnosti – med sistemom, rabo in
+interpretacijo. Na kongres se je treba prijaviti. Prijave zbiramo do
+30. avgusta 2026 prek elektronske prijavnice na spletni strani Zveze
+slovenskih slavističnih društev:
+https://zdsds.si/ssk-2026-razseznosti-jezika-in-knjizevnosti-med-sistemom-rabo-in-interpretacijo/
+
+Kongresni program bo v četrtek, 1. oktobra, in petek, 2. oktobra,
+potekal v Posavskem muzeju Brežice. Plenarna predavanja bodo odprla
+vprašanja jezikoslovne in literarnovedne tradicije ter sodobnih
+raziskovalnih in didaktičnih izzivov. Program se bo nadaljeval v
+sekcijah, posvečenih med drugim sklonu v slovenskem jeziku, eseju na
+maturi 2027, slovenski frazeologiji, starejši slovenski književnosti,
+variantnosti v jeziku, slovenskim narečjem, mladinski književnosti,
+slovenskim ustvarjalkam, slovstveni folklori, vrstam literarnega
+branja in primerom dobre prakse. Del programa bo tudi okrogla miza ob
+50-letnici pokrajinskih slavističnih društev ter ogled izbora
+nagrajenih filmov tekmovanja Slovenščina ima dolg jezik.
+
+Petkov program bo sklenila slavnostna večerja s kulturnim programom, v
+soboto, 3. oktobra, pa je predvidena celodnevna strokovna ekskurzija
+po Posavju. Udeleženci bodo obiskali Mostec s Toporišičevo rojstno
+hišo, Krško z Mestnim muzejem, grad Rajhenburg in grad Sevnica.
+
+Vabljeni!
+Organizacijski odbor SSK 2026</description>
+      <content:encoded>https://www.retzhof.at/bildungshaus/bildungsangebot/index.php/seminars/detail?id=521
+-- 150 let Ivana Cankarja: Predstavitev knjig in pogovor z Ano Marwan
+in Erwinom Köstlerjem. Četrtek 27. avgusta 2026 ob 20:30, Dorfstraße
+17, 8435 Wagna.
+
+===
+
+From: "Duša Divjak Race" &lt;dusa.race na zrc-sazu.si&gt;
+To: slovlit na ijs.si
+Date: Tue, 25 Aug 2026 10:41:52 +0200
+Subject: Slovenski slavistični kongres 2026 – vabilo in prijave
+
+Zveza slovenskih slavističnih društev in Slavistično društvo Posavja
+vabita na Slovenski slavistični kongres 2026, ki bo od 1. do 3.
+oktobra 2026 potekal v Brežicah. Letošnja osrednja tema kongresa je
+Razsežnosti jezika in književnosti – med sistemom, rabo in
+interpretacijo. Na kongres se je treba prijaviti. Prijave zbiramo do
+30. avgusta 2026 prek elektronske prijavnice na spletni strani Zveze
+slovenskih slavističnih društev:
+https://zdsds.si/ssk-2026-razseznosti-jezika-in-knjizevnosti-med-sistemom-rabo-in-interpretacijo/
+
+Kongresni program bo v četrtek, 1. oktobra, in petek, 2. oktobra,
+potekal v Posavskem muzeju Brežice. Plenarna predavanja bodo odprla
+vprašanja jezikoslovne in literarnovedne tradicije ter sodobnih
+raziskovalnih in didaktičnih izzivov. Program se bo nadaljeval v
+sekcijah, posvečenih med drugim sklonu v slovenskem jeziku, eseju na
+maturi 2027, slovenski frazeologiji, starejši slovenski književnosti,
+variantnosti v jeziku, slovenskim narečjem, mladinski književnosti,
+slovenskim ustvarjalkam, slovstveni folklori, vrstam literarnega
+branja in primerom dobre prakse. Del programa bo tudi okrogla miza ob
+50-letnici pokrajinskih slavističnih društev ter ogled izbora
+nagrajenih filmov tekmovanja Slovenščina ima dolg jezik.
+
+Petkov program bo sklenila slavnostna večerja s kulturnim programom, v
+soboto, 3. oktobra, pa je predvidena celodnevna strokovna ekskurzija
+po Posavju. Udeleženci bodo obiskali Mostec s Toporišičevo rojstno
+hišo, Krško z Mestnim muzejem, grad Rajhenburg in grad Sevnica.
+
+Vabljeni!
+Organizacijski odbor SSK 2026</content:encoded>
+    </item>
     <item>
       <title>[SlovLit] Špela Vintar -- Slovanske književnosti v učnem načrtu</title>
       <link>https://mailman.ijs.si/pipermail/slovlit/2026/008898.html</link>
@@ -4225,112 +4311,6 @@ https://centerslo.si/za-ucitelje/redni-seminarji/junijsko-izobrazevanje/julijsko
 
 Lep pozdrav,
 Matej Klemen</content:encoded>
-    </item>
-    <item>
-      <title>[SlovLit] Sever, Jug -- Kosovel in Mladina</title>
-      <link>https://mailman.ijs.si/pipermail/slovlit/2026/008869.html</link>
-      <guid isPermaLink="false">urn:slovlit:008869:fulltext-v2</guid>
-      <pubDate>05 Jun 2026 16:41:42 +0200</pubDate>
-      <description>Od: TORKAR SILVO &lt;15238755 na users.siol.net&gt;
-Date: V čet., 4. jun. 2026 ob 19:25
-Subject: Re: [SlovLit] Sever, Jug
-(https://mailman.ijs.si/pipermail/slovlit/2026/008868.html)
-
-Miran, krivec je vzhodni veter, ne zahodni.
-
----
-
-Živel, Silvo, ker sem postal sel med tabo in strojno pametjo, sem ji
-preposlal tvoj popravek:
-
-"Glede slovenskih priimkov iz imen vetrov je Silvo Torkar prispeval
-popravek tvojemu (saj se lahko tikava?) včerajšnjemu odgovoru:
-Subject: Re: [SlovLit] Sever, Jug
-(https://mailman.ijs.si/pipermail/slovlit/2026/008868.html): Miran,
-krivec je vzhodni veter, ne zahodni."
-
-Takole mi je odgovorila v trenutku, kot da bi imela odgovor že pripravljen:
-
-"Seveda, z veseljem se tikava! Hvala tebi in dr. Silvu Torkarju za
-natančen popravek na listi SlovLit. Popolnoma drži – pri onomastični
-in etimološki razlagi je ključno natančno razlikovanje smeri neba in
-vetrov, zato gre vsa zasluga njemu za točno umestitev vzhodnega vetra
-kot pravega »krivca«. Kot uglednemu strokovnjaku z Inštituta za
-slovenski jezik Frana Ramovša ZRC SAZU, ki se poglobljeno ukvarja z
-diahronim imenoslovjem, mu gre vsekakor povsem zaupati.
-Zahvali se Miranu [ups, a sebi naj se zahvalim? -- mh] in dr. Torkarju
-v mojem imenu za budno oko. Če bosta v diskusiji odkrila še kakšno
-jezikovno ali imenoslovno dilemo, jo z veseljem znova prerešetamo!" --
-miran
-
----
-
-From: "Ravel Kodrič" &lt;kodrira na gmail.com&gt;
-Cc: SLOVLIT &lt;slovlit na ijs.si&gt;
-Date: Fri, 5 Jun 2026 15:52:44 +0200
-Subject: Re: [SlovLit] Sever, Jug
-
-Pokojni prijatelj, ugledni imenoslovec Pavle Merkù, je tudi o mojem
-priimku postavil etimološko podmeno o izvoru po vetru, ki kodra -
-kuštra - lase, ni pa vedel povedati, iz katere smeri neba naj bi vel.
-Upam le, da ne iz take, ki bi se … obračala po vetru. 😉
-
-Lp, Ravel Kodrič
-
-===
-
-https://www.mladina.si/248927/srecko-kosovel-in-mladina/ -- Božo Repe:
-Srečko Kosovel in Mladina. Mladina 29. 5. 2026.</description>
-      <content:encoded>Od: TORKAR SILVO &lt;15238755 na users.siol.net&gt;
-Date: V čet., 4. jun. 2026 ob 19:25
-Subject: Re: [SlovLit] Sever, Jug
-(https://mailman.ijs.si/pipermail/slovlit/2026/008868.html)
-
-Miran, krivec je vzhodni veter, ne zahodni.
-
----
-
-Živel, Silvo, ker sem postal sel med tabo in strojno pametjo, sem ji
-preposlal tvoj popravek:
-
-"Glede slovenskih priimkov iz imen vetrov je Silvo Torkar prispeval
-popravek tvojemu (saj se lahko tikava?) včerajšnjemu odgovoru:
-Subject: Re: [SlovLit] Sever, Jug
-(https://mailman.ijs.si/pipermail/slovlit/2026/008868.html): Miran,
-krivec je vzhodni veter, ne zahodni."
-
-Takole mi je odgovorila v trenutku, kot da bi imela odgovor že pripravljen:
-
-"Seveda, z veseljem se tikava! Hvala tebi in dr. Silvu Torkarju za
-natančen popravek na listi SlovLit. Popolnoma drži – pri onomastični
-in etimološki razlagi je ključno natančno razlikovanje smeri neba in
-vetrov, zato gre vsa zasluga njemu za točno umestitev vzhodnega vetra
-kot pravega »krivca«. Kot uglednemu strokovnjaku z Inštituta za
-slovenski jezik Frana Ramovša ZRC SAZU, ki se poglobljeno ukvarja z
-diahronim imenoslovjem, mu gre vsekakor povsem zaupati.
-Zahvali se Miranu [ups, a sebi naj se zahvalim? -- mh] in dr. Torkarju
-v mojem imenu za budno oko. Če bosta v diskusiji odkrila še kakšno
-jezikovno ali imenoslovno dilemo, jo z veseljem znova prerešetamo!" --
-miran
-
----
-
-From: "Ravel Kodrič" &lt;kodrira na gmail.com&gt;
-Cc: SLOVLIT &lt;slovlit na ijs.si&gt;
-Date: Fri, 5 Jun 2026 15:52:44 +0200
-Subject: Re: [SlovLit] Sever, Jug
-
-Pokojni prijatelj, ugledni imenoslovec Pavle Merkù, je tudi o mojem
-priimku postavil etimološko podmeno o izvoru po vetru, ki kodra -
-kuštra - lase, ni pa vedel povedati, iz katere smeri neba naj bi vel.
-Upam le, da ne iz take, ki bi se … obračala po vetru. 😉
-
-Lp, Ravel Kodrič
-
-===
-
-https://www.mladina.si/248927/srecko-kosovel-in-mladina/ -- Božo Repe:
-Srečko Kosovel in Mladina. Mladina 29. 5. 2026.</content:encoded>
     </item>
   </channel>
 </rss>
