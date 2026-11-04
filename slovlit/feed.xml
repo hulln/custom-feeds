@@ -5,9 +5,125 @@
     <link>https://mailman.ijs.si/pipermail/slovlit/</link>
     <description>Neuradni RSS za javni arhiv poštnega seznama SlovLit.</description>
     <language>sl</language>
-    <lastBuildDate>Wed, 04 Nov 2026 00:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:06:18 +0000</lastBuildDate>
     <generator>Custom Feeds – SlovLit</generator>
     <atom:link href="https://raw.githubusercontent.com/hulln/custom-feeds/main/slovlit/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[SlovLit] Pionirki uporništva Zofka Kveder in Fanica Obid - Mirjam -- Govorni korpus ROG-dialog 2.0 -- Literatura 424</title>
+      <link>https://mailman.ijs.si/pipermail/slovlit/2026/008946.html</link>
+      <guid isPermaLink="false">urn:slovlit:008946:fulltext-v2</guid>
+      <pubDate>04 Nov 2026 09:12:28 +0100</pubDate>
+      <description>From: Maja Lihtenvalner &lt;Maja.Lihtenvalner na mladinska-knjiga.si&gt;
+To: "slovlit na ijs.si" &lt;slovlit na ijs.si&gt;
+Date: Tue, 3 Nov 2026 08:17:00 +0000
+Subject: Biografija Zofke Kveder in pogovor Pionirki uporništva o
+Zofki Kveder in Fanici Obid - Mirjam
+
+Spoštovani, vabimo vas na predstavitev dveh knjižnih novosti, ki vsaka
+na svoj način pripovedujeta o ženskah, njihovem pogumu in želji po
+neodvisnosti. V sredo, 4. novembra 2026, ob 11. uri bomo v Knjigarni
+Konzorcij predstavili biografijo Zofke Kveder Pogum za lepoto in senco
+in roman Marija Antoaneta, na posteljo pripeta, ki se je uvrstil med
+tri finaliste natečaja za nagrado modra ptica 2026.
+
+Pogum za lepoto in senco. Ob 100. obletnici smrti Zofke Kveder, prve
+poklicne slovenske pisateljice in ene od pionirk ženskega gibanja, je
+izšla biografija, ki osvetljuje njeno izjemno življenjsko in
+ustvarjalno pot. Pripoved dr. Katje Mihurko o pisateljici, publicistki
+in urednici, ki je s svojim delom in življenjskimi odločitvami
+presegala družbene omejitve svojega časa, dopolnjuje dragocena
+korespondenca med Zofko Kveder in njeno najstarejšo hčerjo Vladimiro
+Jelovšek. Pisma, napisana v hrvaščini, je v slovenščino prevedla Sonja
+Polanc, spremlja pa jih študija dr. Vladke Tucovič Sturman. Knjigo, ki
+je izšla v zbirki Spomini in izpovedi, bogatijo številne fotografije
+in dokumenti. Knjigo bodo predstavile dr. Katja Mihurko, dr. Vladka
+Tucovič Sturman, Sonja Polanc in urednica Nela Malečkar. [...]
+
+Obe knjigi bomo med bralce pospremili še z literarnima večeroma v
+Cankarjevem domu in Pavčkovi dvorani Mladinske knjige: Pionirki
+uporništva: Zofka Kveder in Fanica Obid – Mirjam, petek, 6. november
+2026, ob 19. uri | Cankarjev dom, Ljubljana. Več o dogodku:
+https://www.cd-cc.si/kultura/literatura-in-humanistika/pionirki-upornistva-zofka-kveder-in-fanica-obid-mirjam
+
+===
+
+From: Darinka Verdonik &lt;darinka.verdonik na um.si&gt;
+To: "slovlit na ijs.si" &lt;slovlit na ijs.si&gt;
+Date: Tue, 3 Nov 2026 13:17:51 +0000
+Subject: učni govorni korpus ROG-dialog 2.0 tudi v konkordančniku
+noSketch Engine
+
+Spoštovani, objavljena je nova različica učnega govornega korpusa
+ROG-dialog, ki je zdaj dostopen za raziskovanje tudi v konkordančniku
+noSketch Engine v okviru infrastrukture CLARIN.SI (http://clarin.si/).
+Korpus ROG-dialog vsebuje 12 posnetkov spontanih pogovorov med 25
+govorci v zasebnem okolju, opremljene z ročnimi zapisi, segmentacijo,
+oznakami dialoških dejanj, humorja in sentimenta. Obsega približno pet
+ur govora oziroma 50.000 besed. Dostop do korpusa v konkordančniku:
+https://www.clarin.si/ske/#dashboard?corpname=rogdialog10
+
+Lep pozdrav
+Darinka Verdonik
+
+===
+
+https://www.ludliteratura.si/knjigarna/revije/424/ -- Izšla je Literatura 424.</description>
+      <content:encoded>From: Maja Lihtenvalner &lt;Maja.Lihtenvalner na mladinska-knjiga.si&gt;
+To: "slovlit na ijs.si" &lt;slovlit na ijs.si&gt;
+Date: Tue, 3 Nov 2026 08:17:00 +0000
+Subject: Biografija Zofke Kveder in pogovor Pionirki uporništva o
+Zofki Kveder in Fanici Obid - Mirjam
+
+Spoštovani, vabimo vas na predstavitev dveh knjižnih novosti, ki vsaka
+na svoj način pripovedujeta o ženskah, njihovem pogumu in želji po
+neodvisnosti. V sredo, 4. novembra 2026, ob 11. uri bomo v Knjigarni
+Konzorcij predstavili biografijo Zofke Kveder Pogum za lepoto in senco
+in roman Marija Antoaneta, na posteljo pripeta, ki se je uvrstil med
+tri finaliste natečaja za nagrado modra ptica 2026.
+
+Pogum za lepoto in senco. Ob 100. obletnici smrti Zofke Kveder, prve
+poklicne slovenske pisateljice in ene od pionirk ženskega gibanja, je
+izšla biografija, ki osvetljuje njeno izjemno življenjsko in
+ustvarjalno pot. Pripoved dr. Katje Mihurko o pisateljici, publicistki
+in urednici, ki je s svojim delom in življenjskimi odločitvami
+presegala družbene omejitve svojega časa, dopolnjuje dragocena
+korespondenca med Zofko Kveder in njeno najstarejšo hčerjo Vladimiro
+Jelovšek. Pisma, napisana v hrvaščini, je v slovenščino prevedla Sonja
+Polanc, spremlja pa jih študija dr. Vladke Tucovič Sturman. Knjigo, ki
+je izšla v zbirki Spomini in izpovedi, bogatijo številne fotografije
+in dokumenti. Knjigo bodo predstavile dr. Katja Mihurko, dr. Vladka
+Tucovič Sturman, Sonja Polanc in urednica Nela Malečkar. [...]
+
+Obe knjigi bomo med bralce pospremili še z literarnima večeroma v
+Cankarjevem domu in Pavčkovi dvorani Mladinske knjige: Pionirki
+uporništva: Zofka Kveder in Fanica Obid – Mirjam, petek, 6. november
+2026, ob 19. uri | Cankarjev dom, Ljubljana. Več o dogodku:
+https://www.cd-cc.si/kultura/literatura-in-humanistika/pionirki-upornistva-zofka-kveder-in-fanica-obid-mirjam
+
+===
+
+From: Darinka Verdonik &lt;darinka.verdonik na um.si&gt;
+To: "slovlit na ijs.si" &lt;slovlit na ijs.si&gt;
+Date: Tue, 3 Nov 2026 13:17:51 +0000
+Subject: učni govorni korpus ROG-dialog 2.0 tudi v konkordančniku
+noSketch Engine
+
+Spoštovani, objavljena je nova različica učnega govornega korpusa
+ROG-dialog, ki je zdaj dostopen za raziskovanje tudi v konkordančniku
+noSketch Engine v okviru infrastrukture CLARIN.SI (http://clarin.si/).
+Korpus ROG-dialog vsebuje 12 posnetkov spontanih pogovorov med 25
+govorci v zasebnem okolju, opremljene z ročnimi zapisi, segmentacijo,
+oznakami dialoških dejanj, humorja in sentimenta. Obsega približno pet
+ur govora oziroma 50.000 besed. Dostop do korpusa v konkordančniku:
+https://www.clarin.si/ske/#dashboard?corpname=rogdialog10
+
+Lep pozdrav
+Darinka Verdonik
+
+===
+
+https://www.ludliteratura.si/knjigarna/revije/424/ -- Izšla je Literatura 424.</content:encoded>
+    </item>
     <item>
       <title>[SlovLit] Boženin večer -- Merila velikih jezikovnih modelov -- Avanturist -- Boj na požiralniku -- Od Gregorčiča do Kosovela</title>
       <link>https://mailman.ijs.si/pipermail/slovlit/2026/008945.html</link>
@@ -4309,202 +4425,6 @@ ustvarjalcih, npr. Mateju Tonejcu - Samostalu in Vidi Jeraj.]
 
 Župan Občine Gorje
 Peter Torkar</content:encoded>
-    </item>
-    <item>
-      <title>[SlovLit] Posnetki s Sociolingvističnega srečanja -- Re: Pravopisni posvet -- Natečaj Eurodram -- Zuzana Finger -- Ženska spolna želja v literaturi</title>
-      <link>https://mailman.ijs.si/pipermail/slovlit/2026/008916.html</link>
-      <guid isPermaLink="false">urn:slovlit:008916:fulltext-v2</guid>
-      <pubDate>23 Sep 2026 08:20:05 +0200</pubDate>
-      <description>From: "Bitenc, Maja" &lt;Maja.Bitenc na ff.uni-lj.si&gt;
-To: SLOVLIT &lt;slovlit na ijs.si&gt;
-Date: Tue, 22 Sep 2026 12:01:08 +0000
-Subject: Posnetki s Sociolingvističnega srečanja (re:
-https://mailman.ijs.si/pipermail/slovlit/2026/008852.html)
-
-Spoštovani, sporočam, da so posnetki predavanj junijskega
-Sociolingvističnega srečanja objavljeni na YouTube kanalu Filozofske
-fakultete; tukaj je povezava. Za spletni ogled so dostopni posnetki
-predavanj, za katera predavateljice in predavatelji niso izrazili
-zadržkov glede snemanja in objave. Povzetki vseh prispevkov so
-dostopni v knjižici povzetkov.
-
-Kot zanimivost dodajam, da je bil sinoči v oddaji Tednik objavljen
-sociolingvistično obarvan prispevek o narečjih med mladimi.
-
-Želim vam lepo jesen,
-Maja Bitenc
-
-===
-
-From: Cobec Aleksander &lt;Aleksander.Cobec na rtvslo.si&gt;
-To: "slovlit na ijs.si" &lt;slovlit na ijs.si&gt;
-Date: Wed, 23 Sep 2026 05:29:40 +0000
-Subject: Re: Pravopisni posvet
-(https://mailman.ijs.si/pipermail/slovlit/2026/008915.html in prej)
-
-O posvetu o pripravi Pravopisa 8.0, ki je potekal na Ministrstvu za
-kulturo, smo poročali tudi v oddaji Jezikovni pogovori na Programu
-Ars.
-
-Oddaja je dostopna na povezavi
-https://ars.rtvslo.si/podkast/jezikovni-pogovori/47471518/175251406
-
-Aleksander Čobec
-
-===
-
-https://www.google.com/url?q=https://www.slogi.si/dogodki/natecaj-eurodram-za-prevedena-dramska-dela-2026-2027/
--- Natečaj EURODRAM za prevedena dramska dela 2026/2027. Slogi.si.
-
-===
-
-https://www.dskp-drustvo.si/zuzana-finger-septembrsko-oktobrska-rezidentka-sovretovega-kabineta/
--- Zuzana Finger, septembrsko-oktobrska rezidentka Sovretovega
-kabineta. DSKP 22. septembra 2026.
-
-===
-
-From: Ivana Zajc &lt;ivana.zajc na ung.si&gt;
-To: slovlit &lt;slovlit na ijs.si&gt;
-Date: Tue, 22 Sep 2026 17:31:39 +0200 (CEST)
-Subject: Na Raziskovalnem centru za humanistiko Univerze v Novi Gorici
-mednarodna znanstvena konferenca o ženski spolni želji v literaturi
-
-Spoštovani. Na Raziskovalnem centru za humanistiko Univerze v Novi
-Gorici 23. in 24. septembra poteka mednarodna znanstvena konferenca z
-naslovom: Female Sexual Desire in Women’s Writing (pre 1940):
-Exploring and Digitally Modelling Texts and Reception. Na dogodku se
-bodo zvrstile predstavitve izvirnih raziskav ženske spolne želje v
-literarnih delih, ki so nastala pred letom 1940. Študije vključujejo
-tako bližnje branje kot digitalne metode analize besedila. Program bo
-potekal v predavalnici P2 na Univerzi v Novi Gorici, več informacij pa
-lahko najdete na naslednji povezavi:
-https://ung.si/en/research/research-centre-for-humanities/projects/dewona-dissemination-activities/conference-programme/
-
-Konferenca združuje raziskovalce/-ke iz številnih evropskih univerz in
-raziskovalnih ustanov od Združenega kraljestva ter Skandinavije do
-srednje in južne Evrope. Prispevki obravnavajo slovensko, hrvaško,
-madžarsko, latvijsko, češko, italijansko, špansko, francosko, angleško
-in druge literarne tradicije ter jih pogosto postavljajo v
-transnacionalni oziroma primerjalni kontekst.
-
-Uvodno predavanje bo izvedla dr. Viola Parente Čapková s finske
-Univerze v Turku, ki bo govorila o ženski želji ob koncu 19. stoletja
-kot mimetični želji. Konferenca je aktualna tudi zato, ker je leto
-2026 posvečeno Zofki Kveder, eni najpomembnejših slovenskih
-pisateljic, njenemu delu pa je namenjen eden osrednjih konferenčnih
-sklopov. Poseben del programa bo namenjen praktični predstavitvi
-zbirke SHEWROTE, ki omogoča shranjevanje, izmenjavo in analizo
-zgodovinskih podatkov, ki dokumentirajo mednarodni odziv na dela
-pisateljic, ki so nastala pred letom 1940.
-
-Dogodek je del raziskovalnega projekta Spolna želja v delih slovenskih
-avtoric (1890-1940) v transnacionalni perspektivi (DEWONA), ki ga
-financira ARIS in ga na Raziskovalnem centru za humanistiko Univerze v
-Novi Gorici vodi dr. Katja Mihurko. Projektna skupina se posveča
-doslej premalo raziskani temi: kako so slovenske pisateljice
-prispevale k srednjeevropskemu diskurzu o spolni želji v obdobju
-1890–1940. Metodološko se s temo ukvarja s primerjalne,
-transnacionalne in transdisciplinarne perspektive, ki združuje
-feministično teorijo, literarno kritiko, kulturno zgodovino, kulturno
-teorijo, intelektualno zgodovino ter digitalno humanistiko.
-
-Vljudno vabljeni!</description>
-      <content:encoded>From: "Bitenc, Maja" &lt;Maja.Bitenc na ff.uni-lj.si&gt;
-To: SLOVLIT &lt;slovlit na ijs.si&gt;
-Date: Tue, 22 Sep 2026 12:01:08 +0000
-Subject: Posnetki s Sociolingvističnega srečanja (re:
-https://mailman.ijs.si/pipermail/slovlit/2026/008852.html)
-
-Spoštovani, sporočam, da so posnetki predavanj junijskega
-Sociolingvističnega srečanja objavljeni na YouTube kanalu Filozofske
-fakultete; tukaj je povezava. Za spletni ogled so dostopni posnetki
-predavanj, za katera predavateljice in predavatelji niso izrazili
-zadržkov glede snemanja in objave. Povzetki vseh prispevkov so
-dostopni v knjižici povzetkov.
-
-Kot zanimivost dodajam, da je bil sinoči v oddaji Tednik objavljen
-sociolingvistično obarvan prispevek o narečjih med mladimi.
-
-Želim vam lepo jesen,
-Maja Bitenc
-
-===
-
-From: Cobec Aleksander &lt;Aleksander.Cobec na rtvslo.si&gt;
-To: "slovlit na ijs.si" &lt;slovlit na ijs.si&gt;
-Date: Wed, 23 Sep 2026 05:29:40 +0000
-Subject: Re: Pravopisni posvet
-(https://mailman.ijs.si/pipermail/slovlit/2026/008915.html in prej)
-
-O posvetu o pripravi Pravopisa 8.0, ki je potekal na Ministrstvu za
-kulturo, smo poročali tudi v oddaji Jezikovni pogovori na Programu
-Ars.
-
-Oddaja je dostopna na povezavi
-https://ars.rtvslo.si/podkast/jezikovni-pogovori/47471518/175251406
-
-Aleksander Čobec
-
-===
-
-https://www.google.com/url?q=https://www.slogi.si/dogodki/natecaj-eurodram-za-prevedena-dramska-dela-2026-2027/
--- Natečaj EURODRAM za prevedena dramska dela 2026/2027. Slogi.si.
-
-===
-
-https://www.dskp-drustvo.si/zuzana-finger-septembrsko-oktobrska-rezidentka-sovretovega-kabineta/
--- Zuzana Finger, septembrsko-oktobrska rezidentka Sovretovega
-kabineta. DSKP 22. septembra 2026.
-
-===
-
-From: Ivana Zajc &lt;ivana.zajc na ung.si&gt;
-To: slovlit &lt;slovlit na ijs.si&gt;
-Date: Tue, 22 Sep 2026 17:31:39 +0200 (CEST)
-Subject: Na Raziskovalnem centru za humanistiko Univerze v Novi Gorici
-mednarodna znanstvena konferenca o ženski spolni želji v literaturi
-
-Spoštovani. Na Raziskovalnem centru za humanistiko Univerze v Novi
-Gorici 23. in 24. septembra poteka mednarodna znanstvena konferenca z
-naslovom: Female Sexual Desire in Women’s Writing (pre 1940):
-Exploring and Digitally Modelling Texts and Reception. Na dogodku se
-bodo zvrstile predstavitve izvirnih raziskav ženske spolne želje v
-literarnih delih, ki so nastala pred letom 1940. Študije vključujejo
-tako bližnje branje kot digitalne metode analize besedila. Program bo
-potekal v predavalnici P2 na Univerzi v Novi Gorici, več informacij pa
-lahko najdete na naslednji povezavi:
-https://ung.si/en/research/research-centre-for-humanities/projects/dewona-dissemination-activities/conference-programme/
-
-Konferenca združuje raziskovalce/-ke iz številnih evropskih univerz in
-raziskovalnih ustanov od Združenega kraljestva ter Skandinavije do
-srednje in južne Evrope. Prispevki obravnavajo slovensko, hrvaško,
-madžarsko, latvijsko, češko, italijansko, špansko, francosko, angleško
-in druge literarne tradicije ter jih pogosto postavljajo v
-transnacionalni oziroma primerjalni kontekst.
-
-Uvodno predavanje bo izvedla dr. Viola Parente Čapková s finske
-Univerze v Turku, ki bo govorila o ženski želji ob koncu 19. stoletja
-kot mimetični želji. Konferenca je aktualna tudi zato, ker je leto
-2026 posvečeno Zofki Kveder, eni najpomembnejših slovenskih
-pisateljic, njenemu delu pa je namenjen eden osrednjih konferenčnih
-sklopov. Poseben del programa bo namenjen praktični predstavitvi
-zbirke SHEWROTE, ki omogoča shranjevanje, izmenjavo in analizo
-zgodovinskih podatkov, ki dokumentirajo mednarodni odziv na dela
-pisateljic, ki so nastala pred letom 1940.
-
-Dogodek je del raziskovalnega projekta Spolna želja v delih slovenskih
-avtoric (1890-1940) v transnacionalni perspektivi (DEWONA), ki ga
-financira ARIS in ga na Raziskovalnem centru za humanistiko Univerze v
-Novi Gorici vodi dr. Katja Mihurko. Projektna skupina se posveča
-doslej premalo raziskani temi: kako so slovenske pisateljice
-prispevale k srednjeevropskemu diskurzu o spolni želji v obdobju
-1890–1940. Metodološko se s temo ukvarja s primerjalne,
-transnacionalne in transdisciplinarne perspektive, ki združuje
-feministično teorijo, literarno kritiko, kulturno zgodovino, kulturno
-teorijo, intelektualno zgodovino ter digitalno humanistiko.
-
-Vljudno vabljeni!</content:encoded>
     </item>
   </channel>
 </rss>
