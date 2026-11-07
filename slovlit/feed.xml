@@ -5,9 +5,99 @@
     <link>https://mailman.ijs.si/pipermail/slovlit/</link>
     <description>Neuradni RSS za javni arhiv poštnega seznama SlovLit.</description>
     <language>sl</language>
-    <lastBuildDate>Sat, 07 Nov 2026 14:53:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 20:13:15 +0000</lastBuildDate>
     <generator>Custom Feeds – SlovLit</generator>
     <atom:link href="https://raw.githubusercontent.com/hulln/custom-feeds/main/slovlit/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[SlovLit] Novosti na portalu CJVT Igre -- Alenka Koron v Literaturi o literaturi -- 18 let SIstory</title>
+      <link>https://mailman.ijs.si/pipermail/slovlit/2026/008950.html</link>
+      <guid isPermaLink="false">urn:slovlit:008950:fulltext-v2</guid>
+      <pubDate>07 Nov 2026 16:31:55 +0100</pubDate>
+      <description>Od: Špela Arhar Holdt &lt;arhar.spela na gmail.com&gt;
+Date: V pet., 6. nov. 2026 ob 12:18
+Subject: [SDJT-L] Novosti na portalu CJVT Igre
+To: &lt;sdjt-l na ijs.si&gt;, &lt;slovlit na ijs.si&gt;
+
+Vse ljubitelje in ljubiteljice jezikovnih iger obveščamo, da smo na
+portalu CJVT Igre objavili dve novosti. Registrirani uporabniki in
+uporabnice lahko odslej dostopajo do tekmovalnih lestvic, v katerih
+lahko primerjajo svoje dnevne in skupne dosežke z rezultati drugih
+igralcev in igralk.
+
+Igro Vezalka, kjer je cilj poiskati čim več slovenskih besed iz
+ponujenih sedmih črk, je sedaj mogoče začasno prekiniti in se k njej
+vrniti kasneje prek dneva. Izboljšali smo tudi točkovanje igre, da
+pravičneje nagrajuje dolžino in tudi pogostost (oziroma redkost)
+uganjenih besed.
+
+Novosti so nastale pod okriljem projekta STIK (Slovnica in besedišče v
+interaktivnih multimodalnih okoljih za mlade: nadgradnja portalov iČas
+in CJVT Igre, vodja Mihaela Knez), ki ga v letih 2026 in 2027
+financira Ministrstvo za kulturo Republike Slovenije. Naslednje leto
+bomo razvijali novo igro po vzoru Vezalke, vendar s prilagojenimi
+pravili in mehaniko igranja, da bo vsebinsko dosegljiva in privlačna
+tudi za mlajše igralke in igralce.
+
+Igranje jezikovnih iger ima pozitivne učinke na rast besednega
+zaklada, jezikovnega in metajezikovnega znanja. Prijazno vabljeni:
+https://igre.cjvt.si/
+
+Špela Arhar Holdt
+
+===
+
+https://www.ludliteratura.si/intervju/literatura-se-v-casu-spreminja-in-podobno-se-dogaja-tudi-stroki-ki-se-ukvarja-z-njo/
+-- Eva Ule: Literatura se v času spreminja in podobno se dogaja tudi
+stroki, ki se ukvarja z njo: Intervju z Alenko Koron, avtorico knjige
+razprav Stičišča. LUD Literatura 6. nov. 2026.
+
+===
+
+https://sistory.si/sistory18 -- »… iskanje oseb po SIstory pa je
+vznemirljivo detektivsko početje.« (M. Hladnik)</description>
+      <content:encoded>Od: Špela Arhar Holdt &lt;arhar.spela na gmail.com&gt;
+Date: V pet., 6. nov. 2026 ob 12:18
+Subject: [SDJT-L] Novosti na portalu CJVT Igre
+To: &lt;sdjt-l na ijs.si&gt;, &lt;slovlit na ijs.si&gt;
+
+Vse ljubitelje in ljubiteljice jezikovnih iger obveščamo, da smo na
+portalu CJVT Igre objavili dve novosti. Registrirani uporabniki in
+uporabnice lahko odslej dostopajo do tekmovalnih lestvic, v katerih
+lahko primerjajo svoje dnevne in skupne dosežke z rezultati drugih
+igralcev in igralk.
+
+Igro Vezalka, kjer je cilj poiskati čim več slovenskih besed iz
+ponujenih sedmih črk, je sedaj mogoče začasno prekiniti in se k njej
+vrniti kasneje prek dneva. Izboljšali smo tudi točkovanje igre, da
+pravičneje nagrajuje dolžino in tudi pogostost (oziroma redkost)
+uganjenih besed.
+
+Novosti so nastale pod okriljem projekta STIK (Slovnica in besedišče v
+interaktivnih multimodalnih okoljih za mlade: nadgradnja portalov iČas
+in CJVT Igre, vodja Mihaela Knez), ki ga v letih 2026 in 2027
+financira Ministrstvo za kulturo Republike Slovenije. Naslednje leto
+bomo razvijali novo igro po vzoru Vezalke, vendar s prilagojenimi
+pravili in mehaniko igranja, da bo vsebinsko dosegljiva in privlačna
+tudi za mlajše igralke in igralce.
+
+Igranje jezikovnih iger ima pozitivne učinke na rast besednega
+zaklada, jezikovnega in metajezikovnega znanja. Prijazno vabljeni:
+https://igre.cjvt.si/
+
+Špela Arhar Holdt
+
+===
+
+https://www.ludliteratura.si/intervju/literatura-se-v-casu-spreminja-in-podobno-se-dogaja-tudi-stroki-ki-se-ukvarja-z-njo/
+-- Eva Ule: Literatura se v času spreminja in podobno se dogaja tudi
+stroki, ki se ukvarja z njo: Intervju z Alenko Koron, avtorico knjige
+razprav Stičišča. LUD Literatura 6. nov. 2026.
+
+===
+
+https://sistory.si/sistory18 -- »… iskanje oseb po SIstory pa je
+vznemirljivo detektivsko početje.« (M. Hladnik)</content:encoded>
+    </item>
     <item>
       <title>[SlovLit] Škrabčeve nagrade -- Re: Vsi zadovoljni, nihče izobražen</title>
       <link>https://mailman.ijs.si/pipermail/slovlit/2026/008949.html</link>
@@ -4409,160 +4499,6 @@ na Milenin ustvarjalni svet
 Predstavitev zbirke Poetična oporoka
 
 Bralci tekstov: Marjana Pirc, Lev Detela, Urh Ferlež, Damijan Ahlin.</content:encoded>
-    </item>
-    <item>
-      <title>[SlovLit] Zelena Nova Gorica -- Ustanovitev E-RIHS.si -- Idiokracija</title>
-      <link>https://mailman.ijs.si/pipermail/slovlit/2026/008920.html</link>
-      <guid isPermaLink="false">urn:slovlit:008920:fulltext-v2</guid>
-      <pubDate>28 Sep 2026 17:15:52 +0200</pubDate>
-      <description>From: "Anika Velišček" &lt;anika.veliscek na gmail.com&gt;
-To: slovlit na ijs.si
-Date: Sat, 26 Sep 2026 19:58:37 +0200
-Subject: Razpis za literarni natečaj Slavističnega društva Nova Gorica
-UČIM SE ZA ZELENO PRIHODNOST: ZELENA SLOVENIJA, MODRA EVROPA
-
-Slavistično društvo Nova Gorica razpisuje literarni natečaj za
-dijakinje in dijake vseh letnikov in vseh srednješolskih
-izobraževalnih programov. Veseli bomo vašega ustvarjalnega odziva,
-svežih idej in izvirnih pogledov na svet, ki vas obdaja.
-
-Tema literarnega natečaja za šolsko leto 2026/27 je odprta in omogoča
-širok ustvarjalni razpon. Avtorje vabimo, da v svojih prispevkih
-raziščejo svet, ki ga doživljajo kot mladi ljudje. Posebno pozornost
-naj dijaki posvetijo razmišljanju o zeleni Sloveniji, o odnosu, ki ga
-ima sodobni človek in še posebej sodobni mladi človek do narave, kako
-stališča o trajnostnem razvoju spreminja umetna inteligenca in kaj
-lahko mladi naredijo za boljši svet.
-
-Usmeritve in namigi za ustvarjanje: V literarnem prispevku lahko med
-drugim razmišljate o: osebnih izkušnjah, ki so vas zaznamovale ali vam
-odprle nov pogled na svet; vplivu, ki ga imajo podnebne spremembe na
-kmetijstvo in življenje nasploh; moči posameznika v spopadu z
-onesnaževanjem zaradi pretiranega potrošništva; odnosu med človekom in
-naravo, med tradicijo in sodobnostjo; vprašanju identitete mladega
-kmeta; razmerju med trajnostjo in digitalnim svetom; vplivu umetne
-inteligence na trajnostni razvoj planeta; moči domišljije, spomina,
-sanj, želja in strahov; zgodbah iz vašega kraja, družine ali lokalne
-skupnosti. Namigi so le izhodišče, ki ga lahko presežete,
-preoblikujete.
-
-Sprejemamo literarna dela v vezani ali nevezani besedi: pesmi, eseje,
-kratke zgodbe, črtice, anekdote, dramske prizore ali kratke igre,
-stripe oziroma literarno‑likovne pripovedi, proste spise in
-refleksivne zapise.
-
-Natečaj traja od 1. oktobra 2026, zaključi pa 3. 12. 2026. Prispevke
-naj mentorji pošljejo v elektronski obliki na naslov Slavističnega
-društva Nova Gorica, pred tem pa izpolnijo elektronsko prijavnico, ki
-je pridana in jo pošljejo na e-naslov društva
-slavisticnodrustvonovagorica na gmail.com
-
-Vsa pravočasno prispela dela bo pregledala tričlanska strokovna
-komisija v sestavi dr. Barbara Pregelj, Vasilija Rupnik, univ. dipl.
-bibl. in prof. sl. jezika, Anika Velišček, mag. prof. slov. Avtorji
-bodo o rezultatih obveščeni v štirih tednih po zaključku natečaja
-preko e-pošte.  Najboljši prispevki bodo nagrajeni s priznanji in
-praktičnimi nagradami (nagrade naj ostanejo še skrivnost 😊).
-
-Spodbujamo vas, da se pri ustvarjanju povežete z ljudmi iz svojega
-okolja – z domačini, starši, starimi starši, lokalnimi društvi,
-ustvarjalci, poznavalci tradicije ali sodobnih praks. Pogovor,
-intervju ali kratko raziskovanje vam lahko odpre nova obzorja in
-obogati vaš literarni glas.
-
-Želimo vam veliko ustvarjalnega poguma, radovednosti in veselja pri
-pisanju. Naj bo literarni natečaj priložnost, da izrazite sebe, svoj
-pogled na svet in svojo zgodbo.
-
-Ernesta Dejak Furlan, prof.
-
-===
-
-https://www.e-rihs.si/2026/09/17/ustanovni-forum-e-rihs-si-digilab/ --
-ustanovni forum E-RIHS.si Digilab (evropske infrastrukture za
-dediščinsko znanost), NUK 15. oktobra 2026.
-
-===
-
-https://wordsmith.org/words/idiocracy.html -- idiocracy, slov.
-*idiokracija, 'vlada telebanov, butalska družba'. A.Word.A.Day 28. 9.
-2026. Besedo je mdr. uporabil Dan Podjed v intervjuju Živimo v
-resničnostnem šovu - kako ustaviti neumnosti?
-(https://svet24.si/revija/jana/osebna-rast/tik-tok-dan-podjed-log-out-cirkus-1805647).</description>
-      <content:encoded>From: "Anika Velišček" &lt;anika.veliscek na gmail.com&gt;
-To: slovlit na ijs.si
-Date: Sat, 26 Sep 2026 19:58:37 +0200
-Subject: Razpis za literarni natečaj Slavističnega društva Nova Gorica
-UČIM SE ZA ZELENO PRIHODNOST: ZELENA SLOVENIJA, MODRA EVROPA
-
-Slavistično društvo Nova Gorica razpisuje literarni natečaj za
-dijakinje in dijake vseh letnikov in vseh srednješolskih
-izobraževalnih programov. Veseli bomo vašega ustvarjalnega odziva,
-svežih idej in izvirnih pogledov na svet, ki vas obdaja.
-
-Tema literarnega natečaja za šolsko leto 2026/27 je odprta in omogoča
-širok ustvarjalni razpon. Avtorje vabimo, da v svojih prispevkih
-raziščejo svet, ki ga doživljajo kot mladi ljudje. Posebno pozornost
-naj dijaki posvetijo razmišljanju o zeleni Sloveniji, o odnosu, ki ga
-ima sodobni človek in še posebej sodobni mladi človek do narave, kako
-stališča o trajnostnem razvoju spreminja umetna inteligenca in kaj
-lahko mladi naredijo za boljši svet.
-
-Usmeritve in namigi za ustvarjanje: V literarnem prispevku lahko med
-drugim razmišljate o: osebnih izkušnjah, ki so vas zaznamovale ali vam
-odprle nov pogled na svet; vplivu, ki ga imajo podnebne spremembe na
-kmetijstvo in življenje nasploh; moči posameznika v spopadu z
-onesnaževanjem zaradi pretiranega potrošništva; odnosu med človekom in
-naravo, med tradicijo in sodobnostjo; vprašanju identitete mladega
-kmeta; razmerju med trajnostjo in digitalnim svetom; vplivu umetne
-inteligence na trajnostni razvoj planeta; moči domišljije, spomina,
-sanj, želja in strahov; zgodbah iz vašega kraja, družine ali lokalne
-skupnosti. Namigi so le izhodišče, ki ga lahko presežete,
-preoblikujete.
-
-Sprejemamo literarna dela v vezani ali nevezani besedi: pesmi, eseje,
-kratke zgodbe, črtice, anekdote, dramske prizore ali kratke igre,
-stripe oziroma literarno‑likovne pripovedi, proste spise in
-refleksivne zapise.
-
-Natečaj traja od 1. oktobra 2026, zaključi pa 3. 12. 2026. Prispevke
-naj mentorji pošljejo v elektronski obliki na naslov Slavističnega
-društva Nova Gorica, pred tem pa izpolnijo elektronsko prijavnico, ki
-je pridana in jo pošljejo na e-naslov društva
-slavisticnodrustvonovagorica na gmail.com
-
-Vsa pravočasno prispela dela bo pregledala tričlanska strokovna
-komisija v sestavi dr. Barbara Pregelj, Vasilija Rupnik, univ. dipl.
-bibl. in prof. sl. jezika, Anika Velišček, mag. prof. slov. Avtorji
-bodo o rezultatih obveščeni v štirih tednih po zaključku natečaja
-preko e-pošte.  Najboljši prispevki bodo nagrajeni s priznanji in
-praktičnimi nagradami (nagrade naj ostanejo še skrivnost 😊).
-
-Spodbujamo vas, da se pri ustvarjanju povežete z ljudmi iz svojega
-okolja – z domačini, starši, starimi starši, lokalnimi društvi,
-ustvarjalci, poznavalci tradicije ali sodobnih praks. Pogovor,
-intervju ali kratko raziskovanje vam lahko odpre nova obzorja in
-obogati vaš literarni glas.
-
-Želimo vam veliko ustvarjalnega poguma, radovednosti in veselja pri
-pisanju. Naj bo literarni natečaj priložnost, da izrazite sebe, svoj
-pogled na svet in svojo zgodbo.
-
-Ernesta Dejak Furlan, prof.
-
-===
-
-https://www.e-rihs.si/2026/09/17/ustanovni-forum-e-rihs-si-digilab/ --
-ustanovni forum E-RIHS.si Digilab (evropske infrastrukture za
-dediščinsko znanost), NUK 15. oktobra 2026.
-
-===
-
-https://wordsmith.org/words/idiocracy.html -- idiocracy, slov.
-*idiokracija, 'vlada telebanov, butalska družba'. A.Word.A.Day 28. 9.
-2026. Besedo je mdr. uporabil Dan Podjed v intervjuju Živimo v
-resničnostnem šovu - kako ustaviti neumnosti?
-(https://svet24.si/revija/jana/osebna-rast/tik-tok-dan-podjed-log-out-cirkus-1805647).</content:encoded>
     </item>
   </channel>
 </rss>
