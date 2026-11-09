@@ -5,9 +5,249 @@
     <link>https://mailman.ijs.si/pipermail/slovlit/</link>
     <description>Neuradni RSS za javni arhiv poštnega seznama SlovLit.</description>
     <language>sl</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:23:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:46:57 +0000</lastBuildDate>
     <generator>Custom Feeds – SlovLit</generator>
     <atom:link href="https://raw.githubusercontent.com/hulln/custom-feeds/main/slovlit/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[SlovLit] Namere in skalarne implikature -- Slovenska zborna izreka -- Odprti jezikovni podatki CLARIN.SI za UI</title>
+      <link>https://mailman.ijs.si/pipermail/slovlit/2026/008952.html</link>
+      <guid isPermaLink="false">urn:slovlit:008952:fulltext-v2</guid>
+      <pubDate>09 Nov 2026 17:41:24 +0100</pubDate>
+      <description>From: "Petra Mišmaš" &lt;Petra.Mismas na ung.si&gt;
+To: slovlit &lt;slovlit na ijs.si&gt;
+Date: Mon, 9 Nov 2026 10:29:38 +0100 (CET)
+Subject: Jezik &amp; Linguistics Colloquia (vabilo)
+
+Pozdravljeni, jezikoslovci Univerze v Novi Gorici vas prijazno vabimo
+na nov dogodek v seriji predavanj Jezik &amp; Linguistics Colloquia. V
+četrtek, 12.novembra 2026, ob 13. uri se nam lahko namreč pridružite
+na predavanju Ire Novecka (Centre National de la Recherche
+Scientifique, Pariz) z naslovom How do intentions figure into the
+study of scalar implicatures? Predavanja, ki bo potekalo v angleščini,
+se lahko udeležite na platformi Zoom ali v živo (predavalnica P5,
+Vipavska 13, Nova Gorica). Povzetek je dosegljiv na
+https://ung.si/ceft/, za povezavo do dogodka pa pišite na e-naslov
+jezikcolloquia na gmail.com
+
+Prijazno vabljeni in lep pozdrav,
+Petra Mišmaš,
+Center za eksperimentalno, formalno in teoretično jezikoslovje (CEFT UNG)
+
+===
+
+From: "Emica Antončič" &lt;antoncic na aristej.si&gt;
+To: SLOVLIT &lt;slovlit na ijs.si&gt;
+Date: Mon, 9 Nov 2026 15:10:27 +0100
+Subject: Napoved izida prenovljene Slovenske zborne izreke
+
+Spoštovane kolegice, spoštovani kolegi, obveščam vas, da je v tisku
+tretja, dopolnjena in prenovljena izdaja knjige Slovenska zborna
+izreka. Ko sva kolegica Cvetka Šeruga Prek (takrat fonetičarka in
+vodja mentorjev za govor na Radiu Slovenija) in moja malenkost
+(nekdanja lektorica v Drami SNG Maribor) leta 2003 napisali to knjigo,
+nisva pričakovali, da bo do danes ostala ne samo prvi sodobni
+pravorečni priročnik, ampak tudi edini. Po različnih poglavjih slovnic
+in pravopisov raztresena pravorečna tematika je v njej združena na
+enem mestu.
+
+A v dobrih dveh desetletjih se v jeziku marsikaj spremeni, slovenščina
+je veliko bolj odprta v svet kot nekdaj, pred vrati pa je tudi novi
+Slovenski pravopis 8.0. Vse to sem upoštevala, ko sem pripravljala
+novo izdajo.
+
+Na kratko: Poglavja iz prvih izdaj so zdaj združena v 1. delu knjige,
+dodani so nekateri sodobnejši primeri, posamezni deli besedil so
+preoblikovani in dopolnjeni, nekaj poglavij pa je napisanih na novo.
+Povsem novi 2. del knjige se ukvarja s pravorečnim prevzemanjem iz
+drugih jezikov v slovenščino in temelji na šestih osnovnih načelih, ki
+s sistemom prevzemanja »glas v glas« izloča večino izjem in tako kar
+najbolj razbremeni govorce.
+
+Ker nam Zakon o enotni ceni knjige šest mesecev po izidu prepoveduje
+dajati popuste, smo se v Založbi Aristej odločili, da ponudimo možnost
+prednaročil po ugodnejši prednaročniški ceni 24,50 evrov (enotna cena
+knjige  bo 29,50 evrov). Vsi, ki bi želeli to izkoristiti, lahko to
+naredite do 18. novembra na povezavi
+
+https://aristej.si/poljudna-znanost-prirocniki/slovenska-zborna-izreka-3
+
+Tu je prosto dostopno tudi kazalo in moj uvod v novo izdajo, da si
+lahko ustvarite prvi vtis. Zvočni posnetek z vajami, ki je bil pri
+prvih izdajah kot zgoščenka priložen h knjigi, pa nameravamo po izidu
+dati v prosti dostop.
+
+Emica Antončič
+
+===
+
+Od: Nikola Ljubešić &lt;nljubesi na gmail.com&gt;
+Date: V pon., 9. nov. 2026 ob 12:20
+Subject: [SDJT-L] SLAIF izobraževanje: Odprti jezikovni podatki
+CLARIN.SI za razvoj in vrednotenje sistemov umetne inteligence
+
+Spoštovane kolegice, spoštovani kolegi, vabimo vas na prihajajoče
+izobraževanje Slovenske tovarne umetne inteligence (SLAIF) z naslovom
+Odprti jezikovni podatki CLARIN.SI za razvoj in vrednotenje sistemov
+umetne inteligence za slovenščino in druge južnoslovanske jezike, ki
+bo potekalo 11. novembra 2026 med 10.00 in 13.00 prek Zooma.
+
+Izobraževanje bo ponudilo praktičen uvod v jezikovne podatke, ki so na
+voljo prek CLARIN.SI, s posebnim poudarkom na njihovi uporabi pri
+razvoju in vrednotenju sistemov umetne inteligence in jezikovnih
+tehnologij.
+
+Gradiva za izobraževanje so že na voljo na spletu:
+https://clarinsi.github.io/clarinsi4ai/
+
+Tudi če se izobraževanja ne boste mogli udeležiti, gradiva ponujajo
+zanimiv vpogled v vsebino repozitorija CLARIN.SI. Predstavljajo
+razpoložljive vire po jezikih in različnih fazah razvoja sistemov
+umetne inteligence, vključno s podatki za predhodno učenje, govornimi
+viri, podatki za naknadno učenje, evalvacijskimi podatkovnimi
+zbirkami, leksikalnimi viri ter že pripravljenimi modeli in orodji.
+
+Več informacij in prijava sta na voljo na https://indico.ijs.si/event/3995/
+
+Lep pozdrav,
+Nikola Ljubešić</description>
+      <content:encoded>From: "Petra Mišmaš" &lt;Petra.Mismas na ung.si&gt;
+To: slovlit &lt;slovlit na ijs.si&gt;
+Date: Mon, 9 Nov 2026 10:29:38 +0100 (CET)
+Subject: Jezik &amp; Linguistics Colloquia (vabilo)
+
+Pozdravljeni, jezikoslovci Univerze v Novi Gorici vas prijazno vabimo
+na nov dogodek v seriji predavanj Jezik &amp; Linguistics Colloquia. V
+četrtek, 12.novembra 2026, ob 13. uri se nam lahko namreč pridružite
+na predavanju Ire Novecka (Centre National de la Recherche
+Scientifique, Pariz) z naslovom How do intentions figure into the
+study of scalar implicatures? Predavanja, ki bo potekalo v angleščini,
+se lahko udeležite na platformi Zoom ali v živo (predavalnica P5,
+Vipavska 13, Nova Gorica). Povzetek je dosegljiv na
+https://ung.si/ceft/, za povezavo do dogodka pa pišite na e-naslov
+jezikcolloquia na gmail.com
+
+Prijazno vabljeni in lep pozdrav,
+Petra Mišmaš,
+Center za eksperimentalno, formalno in teoretično jezikoslovje (CEFT UNG)
+
+===
+
+From: "Emica Antončič" &lt;antoncic na aristej.si&gt;
+To: SLOVLIT &lt;slovlit na ijs.si&gt;
+Date: Mon, 9 Nov 2026 15:10:27 +0100
+Subject: Napoved izida prenovljene Slovenske zborne izreke
+
+Spoštovane kolegice, spoštovani kolegi, obveščam vas, da je v tisku
+tretja, dopolnjena in prenovljena izdaja knjige Slovenska zborna
+izreka. Ko sva kolegica Cvetka Šeruga Prek (takrat fonetičarka in
+vodja mentorjev za govor na Radiu Slovenija) in moja malenkost
+(nekdanja lektorica v Drami SNG Maribor) leta 2003 napisali to knjigo,
+nisva pričakovali, da bo do danes ostala ne samo prvi sodobni
+pravorečni priročnik, ampak tudi edini. Po različnih poglavjih slovnic
+in pravopisov raztresena pravorečna tematika je v njej združena na
+enem mestu.
+
+A v dobrih dveh desetletjih se v jeziku marsikaj spremeni, slovenščina
+je veliko bolj odprta v svet kot nekdaj, pred vrati pa je tudi novi
+Slovenski pravopis 8.0. Vse to sem upoštevala, ko sem pripravljala
+novo izdajo.
+
+Na kratko: Poglavja iz prvih izdaj so zdaj združena v 1. delu knjige,
+dodani so nekateri sodobnejši primeri, posamezni deli besedil so
+preoblikovani in dopolnjeni, nekaj poglavij pa je napisanih na novo.
+Povsem novi 2. del knjige se ukvarja s pravorečnim prevzemanjem iz
+drugih jezikov v slovenščino in temelji na šestih osnovnih načelih, ki
+s sistemom prevzemanja »glas v glas« izloča večino izjem in tako kar
+najbolj razbremeni govorce.
+
+Ker nam Zakon o enotni ceni knjige šest mesecev po izidu prepoveduje
+dajati popuste, smo se v Založbi Aristej odločili, da ponudimo možnost
+prednaročil po ugodnejši prednaročniški ceni 24,50 evrov (enotna cena
+knjige  bo 29,50 evrov). Vsi, ki bi želeli to izkoristiti, lahko to
+naredite do 18. novembra na povezavi
+
+https://aristej.si/poljudna-znanost-prirocniki/slovenska-zborna-izreka-3
+
+Tu je prosto dostopno tudi kazalo in moj uvod v novo izdajo, da si
+lahko ustvarite prvi vtis. Zvočni posnetek z vajami, ki je bil pri
+prvih izdajah kot zgoščenka priložen h knjigi, pa nameravamo po izidu
+dati v prosti dostop.
+
+Emica Antončič
+
+===
+
+Od: Nikola Ljubešić &lt;nljubesi na gmail.com&gt;
+Date: V pon., 9. nov. 2026 ob 12:20
+Subject: [SDJT-L] SLAIF izobraževanje: Odprti jezikovni podatki
+CLARIN.SI za razvoj in vrednotenje sistemov umetne inteligence
+
+Spoštovane kolegice, spoštovani kolegi, vabimo vas na prihajajoče
+izobraževanje Slovenske tovarne umetne inteligence (SLAIF) z naslovom
+Odprti jezikovni podatki CLARIN.SI za razvoj in vrednotenje sistemov
+umetne inteligence za slovenščino in druge južnoslovanske jezike, ki
+bo potekalo 11. novembra 2026 med 10.00 in 13.00 prek Zooma.
+
+Izobraževanje bo ponudilo praktičen uvod v jezikovne podatke, ki so na
+voljo prek CLARIN.SI, s posebnim poudarkom na njihovi uporabi pri
+razvoju in vrednotenju sistemov umetne inteligence in jezikovnih
+tehnologij.
+
+Gradiva za izobraževanje so že na voljo na spletu:
+https://clarinsi.github.io/clarinsi4ai/
+
+Tudi če se izobraževanja ne boste mogli udeležiti, gradiva ponujajo
+zanimiv vpogled v vsebino repozitorija CLARIN.SI. Predstavljajo
+razpoložljive vire po jezikih in različnih fazah razvoja sistemov
+umetne inteligence, vključno s podatki za predhodno učenje, govornimi
+viri, podatki za naknadno učenje, evalvacijskimi podatkovnimi
+zbirkami, leksikalnimi viri ter že pripravljenimi modeli in orodji.
+
+Več informacij in prijava sta na voljo na https://indico.ijs.si/event/3995/
+
+Lep pozdrav,
+Nikola Ljubešić</content:encoded>
+    </item>
+    <item>
+      <title>[SlovLit] Tone Smolej o zgodovini primerjalne književnosti -- Krpan 2026 -- Matjaž Kmecl (1934--2026)</title>
+      <link>https://mailman.ijs.si/pipermail/slovlit/2026/008951.html</link>
+      <guid isPermaLink="false">urn:slovlit:008951:fulltext-v2</guid>
+      <pubDate>09 Nov 2026 14:24:54 +0100</pubDate>
+      <description>https://www.rtvslo.si/rtv365/arhiv/175261976?s=tv oz.
+https://neo.io/tv/detail/profil_tone_smolej_47af83ce -- Nina Jerman:
+Tone Smolej: Profil. TV SLO 3, 8. novembra 2026.
+
+===
+
+https://sl.wikiversity.org/wiki/Krpan_2026 -- M. Hladnik: Tomaž
+Hrovat: Milan Krpan iz Brezbožnega Dola: Zgodba o Martinu Krpanu v
+času umetne inteligence. Ilustracije Samira Kentrić. Škofja Loka:
+Domus LITISIA, 2026. (spremna beseda)
+
+===
+
+https://www.delo.si/novice/slovenija/umrl-je-matjaz-kmecl -- Umrl je
+Matjaž Kmecl. Delo 9. 11. 2026. -- Pogreb dragega učitelja in kolega
+(https://sl.wikipedia.org/wiki/Matja%C5%BE_Kmecl) bo v družinskem
+krogu. -- mh</description>
+      <content:encoded>https://www.rtvslo.si/rtv365/arhiv/175261976?s=tv oz.
+https://neo.io/tv/detail/profil_tone_smolej_47af83ce -- Nina Jerman:
+Tone Smolej: Profil. TV SLO 3, 8. novembra 2026.
+
+===
+
+https://sl.wikiversity.org/wiki/Krpan_2026 -- M. Hladnik: Tomaž
+Hrovat: Milan Krpan iz Brezbožnega Dola: Zgodba o Martinu Krpanu v
+času umetne inteligence. Ilustracije Samira Kentrić. Škofja Loka:
+Domus LITISIA, 2026. (spremna beseda)
+
+===
+
+https://www.delo.si/novice/slovenija/umrl-je-matjaz-kmecl -- Umrl je
+Matjaž Kmecl. Delo 9. 11. 2026. -- Pogreb dragega učitelja in kolega
+(https://sl.wikipedia.org/wiki/Matja%C5%BE_Kmecl) bo v družinskem
+krogu. -- mh</content:encoded>
+    </item>
     <item>
       <title>[SlovLit] Novosti na portalu CJVT Igre -- Alenka Koron v Literaturi o literaturi -- 18 let SIstory</title>
       <link>https://mailman.ijs.si/pipermail/slovlit/2026/008950.html</link>
@@ -4203,302 +4443,6 @@ odgovori)
 11.15–11.30 Marija Kozar-Mukič: Toporišič v slovenski oddaji Madžarskega radia
 11.30–11.45 Jožica Jožef Beg: Toporišič in Slavistično društvo Slovenije
 11.45–12.00 Neža Kočnik: Toporišičeva obravnava števnika</content:encoded>
-    </item>
-    <item>
-      <title>[SlovLit] Janez Vrečko v Cankarjevem domu -- Re: Bevk, Kosovel in antifašizem -- Re: Slovlitovci: Silvo Torkar</title>
-      <link>https://mailman.ijs.si/pipermail/slovlit/2026/008922.html</link>
-      <guid isPermaLink="false">urn:slovlit:008922:fulltext-v2</guid>
-      <pubDate>01 Oct 2026 12:18:09 +0200</pubDate>
-      <description>From: "Srebnik, Anita" &lt;Anita.Srebnik na ff.uni-lj.si&gt;
-To: "slovlit na ijs.si" &lt;slovlit na ijs.si&gt;
-Date: Thu, 1 Oct 2026 09:19:02 +0000
-Subject: Janez Vrečko v Cankarjevem domu
-
-5. oktobra 2026 ob 19.00 bo v Cankarjevem domu potekal pogovor z dr.
-Janezom Vrečkom o njegovi novi knjigi ČAS ≡ PROSTOR, ki ga bo vodil
-dr. Igor Žunkovič z Oddelka za primerjalno književnost in literarno
-teorijo FF UL. Sogovornika bosta aktualizirala Kosovelovo literarno
-ustvarjanje z raznolikih gledišč, ki nadgrajujejo znanstvena spoznanja
-o pesniku Krasa.
-
-Več o dogodku in knjigi:
-https://www.cd-cc.si/kultura/literatura-in-humanistika/cas-prostor-ob-stoti-obletnici-smrti-srecka-kosovela
-https://www.ludliteratura.si/dogodek/cas-%e2%89%a1-prostor-ob-stoti-obletnici-smrti-srecka-kosovela/
-
-Anita Srebnik
-
-===
-
-https://slov.si/doc/miklavz_komelj_zakojca2026.docx -- Miklavž Komelj:
-Govor o Bevku v Zakojci (re:
-https://mailman.ijs.si/pipermail/slovlit/2026/008921.html , Jerneju
-hvala za Miklavžev e-naslov).
-
-===
-
-Tule je še povezava na govor Silva Torkarja v Hudajužni (re:
-https://mailman.ijs.si/pipermail/slovlit/2026/008917.html), ki zaradi
-moje napake v naslovu nekaj časa ni bil dostopen:
-https://slov.si/doc/torkar_hudajuzna2026.docx -- z opravičilom, miran</description>
-      <content:encoded>From: "Srebnik, Anita" &lt;Anita.Srebnik na ff.uni-lj.si&gt;
-To: "slovlit na ijs.si" &lt;slovlit na ijs.si&gt;
-Date: Thu, 1 Oct 2026 09:19:02 +0000
-Subject: Janez Vrečko v Cankarjevem domu
-
-5. oktobra 2026 ob 19.00 bo v Cankarjevem domu potekal pogovor z dr.
-Janezom Vrečkom o njegovi novi knjigi ČAS ≡ PROSTOR, ki ga bo vodil
-dr. Igor Žunkovič z Oddelka za primerjalno književnost in literarno
-teorijo FF UL. Sogovornika bosta aktualizirala Kosovelovo literarno
-ustvarjanje z raznolikih gledišč, ki nadgrajujejo znanstvena spoznanja
-o pesniku Krasa.
-
-Več o dogodku in knjigi:
-https://www.cd-cc.si/kultura/literatura-in-humanistika/cas-prostor-ob-stoti-obletnici-smrti-srecka-kosovela
-https://www.ludliteratura.si/dogodek/cas-%e2%89%a1-prostor-ob-stoti-obletnici-smrti-srecka-kosovela/
-
-Anita Srebnik
-
-===
-
-https://slov.si/doc/miklavz_komelj_zakojca2026.docx -- Miklavž Komelj:
-Govor o Bevku v Zakojci (re:
-https://mailman.ijs.si/pipermail/slovlit/2026/008921.html , Jerneju
-hvala za Miklavžev e-naslov).
-
-===
-
-Tule je še povezava na govor Silva Torkarja v Hudajužni (re:
-https://mailman.ijs.si/pipermail/slovlit/2026/008917.html), ki zaradi
-moje napake v naslovu nekaj časa ni bil dostopen:
-https://slov.si/doc/torkar_hudajuzna2026.docx -- z opravičilom, miran</content:encoded>
-    </item>
-    <item>
-      <title>[SlovLit] Bevk, Kosovel in antifašizem -- O Ljubki Šorli na Opčinah -- Slovenščina v šoli 29/2 -- O Mileni Merlak pri SM</title>
-      <link>https://mailman.ijs.si/pipermail/slovlit/2026/008921.html</link>
-      <guid isPermaLink="false">urn:slovlit:008921:fulltext-v2</guid>
-      <pubDate>01 Oct 2026 08:49:03 +0200</pubDate>
-      <description>20. septembra je v okviru Bevkovih dnevov kulture
-(https://www.visitcerkno.si/bevkovi-dnevi-2026/) v Zakojci o Bevkovem
-in Kosovelovem antifašizmu govoril Miklavž Komelj. Sporočite mi prosim
-Miklavžev e-naslov, da ga nagovorim za vključitev na seznam
-partizanskih govorov
-(https://sl.wikiversity.org/wiki/Objave_ob_projektu_Partizanskih_spomenikov_na_zemljevidu#Govori).
--- miran
-
-===
-
-https://www.noviglas.eu/predstavitev-nove-zbirke-otroskih-pesmi-soncek-ves-zlat/
--- V sredo, 30. septembra 2026, ob 18. uri bo v Librarni na Opčinah
-potekala predstavitev nove zbirke otroških pesmi Ljubke Šorli
-[https://sl.wikipedia.org/wiki/Ljubka_%C5%A0orli] z naslovom Sonček
-ves zlat. Zbirko, namenjeno najmlajšim bralcem, je z igrivimi in
-nežnimi ilustracijami opremila Kristina Pahor. Ob predstavitvi se
-bosta o nastanku knjige, pesmih in njenem likovnem svetu pogovarjali
-urednica Vera Tuta Ban in ilustratorka Kristina Pahor, pogovor pa bo
-vodila Barbara Rustja. Na dogodek vabita Goriška Mohorjeva družba in
-knjigarna Librarna. Novi glas 5. 9. 2026.
-
-===
-
-From: "Marija Žveglič" &lt;marija.zveglic na zrss.si&gt;
-To: "slovlit na ijs.si" &lt;slovlit na ijs.si&gt;
-Date: Tue, 29 Sep 2026 10:35:52 +0000
-Subject: Ob izidu 2. številke 29. letnika revije Slovenščina v šoli
-
-Pred nami je nova številka revije, ki na svojevrsten način prepleta
-literarno zgodovino z aktualnimi izzivi, ki jih prinaša prenova učnih
-načrtov in katalogov znanj za slovenščino v srednjih šolah. Tokratna
-številka se tematsko giblje med iskanjem novih didaktičnih pristopov
-pri pouku slovenščine/književnosti v srednji šoli ter raziskovanjem in
-predstavljanjem »ženskih glasov«, ki so pomembno vplivali na naš
-kulturni prostor.
-
-Spominski razdelek je posvečen Zofki Kveder, katere ustvarjalni opus
-in osebnost še vedno porajata nove literarnozgodovinske
-interpretacije. Razprava dr. Janje Vollmaier Lubej o njenih izbranih
-pismih prikazuje Kvedrovo kot pomembno izobraženko, ki je presegala
-okvire svojega časa, dddr. Mira Delavec Touhami pa piše o Zofki Kveder
-kot večplastni literarni ustvarjalki in izobraženki evropskega kova.
-Temu raziskovanju »ženskih glasov« se pridružuje  prispevek o Lili
-Novy.
-
-Njene izbrane pesmi predstavi Bojana Modrijančič Reščič in jih
-premišljeno vtke v opis pesničine življenjske in ustvarjalne poti.
-
-Revija ne zajema zgolj premisleka o preteklem, ampak se aktivno
-vključuje v razpravo o načrtovanju in izvajanju srednješolskega pouka
-književnosti v prihodnje. Dr. Alenka Žbogar povzema bistvene novosti
-književnega dela gimnazijskega učnega načrta za slovenščino (2025) in
-nakaže možnosti za nadgradnjo temeljnega cilja književnega pouka, tj.
-procesno razvijanje literarne zmožnosti.
-
-Vzpostavlja prenovljeni paradigmatski okvir »manj je več« – manj
-predpisanih vsebin v zameno za poglobljeno literarno branje in
-tvorjenje, več izbirnosti ter več učiteljeve avtonomije, kar pa ne
-pomeni manj sistematičnega znanja ali nižanja standardov sistemskega
-znanja.
-
-Ta premik k dejavnejšemu pouku književnosti v srednji šoli zahteva
-učiteljevo premišljeno in strokovno podprto načrtovanje na letni in
-sprotni ravni, kar v razdelku Didaktični izzivi konkretno prikazujeta
-Valentina Kobal in Drago Meglič. Cilj teh prizadevanj je opolnomočiti
-učitelja pri sistematičnem usmerjanju učnega procesa k doseganju
-ciljev in standardov učnega načrta.
-
-Družbeni pomen slovenščine kot temelja identitete osvetljujeta
-prispevka o štirih desetletjih literarnega natečaja Roševi dnevi, ki
-ga predstavlja Lucija Hajnšek, in dragocenem ohranjanju slovenstva med
-argentinskimi Slovenci, o čemer piše Dragica Motik. Opominjata nas, da
-sta jezik in domovinska zavest eno in ne poznata meja, kadar ju
-podpira vztrajnost.
-
-Lep pozdrav
-Marija Žveglič, odgovorna urednica
-
-===
-
-Od: Slovenska matica &lt;urednistvo na slovenska-matica.si&gt;
-Date: V tor., 29. sep. 2026 ob 15:54
-Subject: Vabilo na slavnostno akademijo
-
-Vljudno vabljeni na slavnostno akademijo ob 90-letnici rojstva Milene
-Merlak Detela in 20-letnici njene smrti, ki bo v ponedeljek, 5.
-oktobra 2026, ob 18. uri v dvorani Slovenske matice (Kongresni trg
-8/I, Ljubljana). Prireditev z naslovom Svet svitanja bo potekala v
-spomin Milene Merlak Detela. Sodelovali bodo različni sogovorniki, ki
-bodo iz osebnega, strokovnega in znanstvenega vidika predstavili njeno
-življenje in opus. Spregovoril bo njen mož in pisatelj Lev Detela, s
-strokovnimi prispevki pa Urh Ferlež, Damijan Ahlin in Marjana Pirc.
-Dogodek bosta obogatila glasbena točka in recitacija poezij. Ob tem
-bodo predstavili tudi zbirko Poetična oporoka, ki je izšla leta 2025
-pri založbi Wieser v Celovcu. Za spremno besedo in analizo
-avtoričinega pesniškega jezika je poskrbela dr. Rozvita Vospernik,
-uredniški del pa je prevzel dr. Feliks J. Bister.
-
-Dogodek organizirata Slovenska kulturna akcija in Slovenska matica.
-Izvedbo dogodka in posnetek je finančno podprla Javna agencija za
-znanstvenoraziskovalno in inovacijsko dejavnost RS.
-
-Program z glasbenimi točkami vmes:
-
-Lev Detela in Damijan Ahlin: Moja prehojena pot - Pogled na Milenino življenje
-Lev Detela, Urh Ferlež in Damijan Ahlin: Nekaj uvodnih besed k lirični izpovedi
-Lev Detela, Urh Ferlež in Damijan Ahlin: Moje pesniške besede - Pogled
-na Milenin ustvarjalni svet
-Predstavitev zbirke Poetična oporoka
-
-Bralci tekstov: Marjana Pirc, Lev Detela, Urh Ferlež, Damijan Ahlin.</description>
-      <content:encoded>20. septembra je v okviru Bevkovih dnevov kulture
-(https://www.visitcerkno.si/bevkovi-dnevi-2026/) v Zakojci o Bevkovem
-in Kosovelovem antifašizmu govoril Miklavž Komelj. Sporočite mi prosim
-Miklavžev e-naslov, da ga nagovorim za vključitev na seznam
-partizanskih govorov
-(https://sl.wikiversity.org/wiki/Objave_ob_projektu_Partizanskih_spomenikov_na_zemljevidu#Govori).
--- miran
-
-===
-
-https://www.noviglas.eu/predstavitev-nove-zbirke-otroskih-pesmi-soncek-ves-zlat/
--- V sredo, 30. septembra 2026, ob 18. uri bo v Librarni na Opčinah
-potekala predstavitev nove zbirke otroških pesmi Ljubke Šorli
-[https://sl.wikipedia.org/wiki/Ljubka_%C5%A0orli] z naslovom Sonček
-ves zlat. Zbirko, namenjeno najmlajšim bralcem, je z igrivimi in
-nežnimi ilustracijami opremila Kristina Pahor. Ob predstavitvi se
-bosta o nastanku knjige, pesmih in njenem likovnem svetu pogovarjali
-urednica Vera Tuta Ban in ilustratorka Kristina Pahor, pogovor pa bo
-vodila Barbara Rustja. Na dogodek vabita Goriška Mohorjeva družba in
-knjigarna Librarna. Novi glas 5. 9. 2026.
-
-===
-
-From: "Marija Žveglič" &lt;marija.zveglic na zrss.si&gt;
-To: "slovlit na ijs.si" &lt;slovlit na ijs.si&gt;
-Date: Tue, 29 Sep 2026 10:35:52 +0000
-Subject: Ob izidu 2. številke 29. letnika revije Slovenščina v šoli
-
-Pred nami je nova številka revije, ki na svojevrsten način prepleta
-literarno zgodovino z aktualnimi izzivi, ki jih prinaša prenova učnih
-načrtov in katalogov znanj za slovenščino v srednjih šolah. Tokratna
-številka se tematsko giblje med iskanjem novih didaktičnih pristopov
-pri pouku slovenščine/književnosti v srednji šoli ter raziskovanjem in
-predstavljanjem »ženskih glasov«, ki so pomembno vplivali na naš
-kulturni prostor.
-
-Spominski razdelek je posvečen Zofki Kveder, katere ustvarjalni opus
-in osebnost še vedno porajata nove literarnozgodovinske
-interpretacije. Razprava dr. Janje Vollmaier Lubej o njenih izbranih
-pismih prikazuje Kvedrovo kot pomembno izobraženko, ki je presegala
-okvire svojega časa, dddr. Mira Delavec Touhami pa piše o Zofki Kveder
-kot večplastni literarni ustvarjalki in izobraženki evropskega kova.
-Temu raziskovanju »ženskih glasov« se pridružuje  prispevek o Lili
-Novy.
-
-Njene izbrane pesmi predstavi Bojana Modrijančič Reščič in jih
-premišljeno vtke v opis pesničine življenjske in ustvarjalne poti.
-
-Revija ne zajema zgolj premisleka o preteklem, ampak se aktivno
-vključuje v razpravo o načrtovanju in izvajanju srednješolskega pouka
-književnosti v prihodnje. Dr. Alenka Žbogar povzema bistvene novosti
-književnega dela gimnazijskega učnega načrta za slovenščino (2025) in
-nakaže možnosti za nadgradnjo temeljnega cilja književnega pouka, tj.
-procesno razvijanje literarne zmožnosti.
-
-Vzpostavlja prenovljeni paradigmatski okvir »manj je več« – manj
-predpisanih vsebin v zameno za poglobljeno literarno branje in
-tvorjenje, več izbirnosti ter več učiteljeve avtonomije, kar pa ne
-pomeni manj sistematičnega znanja ali nižanja standardov sistemskega
-znanja.
-
-Ta premik k dejavnejšemu pouku književnosti v srednji šoli zahteva
-učiteljevo premišljeno in strokovno podprto načrtovanje na letni in
-sprotni ravni, kar v razdelku Didaktični izzivi konkretno prikazujeta
-Valentina Kobal in Drago Meglič. Cilj teh prizadevanj je opolnomočiti
-učitelja pri sistematičnem usmerjanju učnega procesa k doseganju
-ciljev in standardov učnega načrta.
-
-Družbeni pomen slovenščine kot temelja identitete osvetljujeta
-prispevka o štirih desetletjih literarnega natečaja Roševi dnevi, ki
-ga predstavlja Lucija Hajnšek, in dragocenem ohranjanju slovenstva med
-argentinskimi Slovenci, o čemer piše Dragica Motik. Opominjata nas, da
-sta jezik in domovinska zavest eno in ne poznata meja, kadar ju
-podpira vztrajnost.
-
-Lep pozdrav
-Marija Žveglič, odgovorna urednica
-
-===
-
-Od: Slovenska matica &lt;urednistvo na slovenska-matica.si&gt;
-Date: V tor., 29. sep. 2026 ob 15:54
-Subject: Vabilo na slavnostno akademijo
-
-Vljudno vabljeni na slavnostno akademijo ob 90-letnici rojstva Milene
-Merlak Detela in 20-letnici njene smrti, ki bo v ponedeljek, 5.
-oktobra 2026, ob 18. uri v dvorani Slovenske matice (Kongresni trg
-8/I, Ljubljana). Prireditev z naslovom Svet svitanja bo potekala v
-spomin Milene Merlak Detela. Sodelovali bodo različni sogovorniki, ki
-bodo iz osebnega, strokovnega in znanstvenega vidika predstavili njeno
-življenje in opus. Spregovoril bo njen mož in pisatelj Lev Detela, s
-strokovnimi prispevki pa Urh Ferlež, Damijan Ahlin in Marjana Pirc.
-Dogodek bosta obogatila glasbena točka in recitacija poezij. Ob tem
-bodo predstavili tudi zbirko Poetična oporoka, ki je izšla leta 2025
-pri založbi Wieser v Celovcu. Za spremno besedo in analizo
-avtoričinega pesniškega jezika je poskrbela dr. Rozvita Vospernik,
-uredniški del pa je prevzel dr. Feliks J. Bister.
-
-Dogodek organizirata Slovenska kulturna akcija in Slovenska matica.
-Izvedbo dogodka in posnetek je finančno podprla Javna agencija za
-znanstvenoraziskovalno in inovacijsko dejavnost RS.
-
-Program z glasbenimi točkami vmes:
-
-Lev Detela in Damijan Ahlin: Moja prehojena pot - Pogled na Milenino življenje
-Lev Detela, Urh Ferlež in Damijan Ahlin: Nekaj uvodnih besed k lirični izpovedi
-Lev Detela, Urh Ferlež in Damijan Ahlin: Moje pesniške besede - Pogled
-na Milenin ustvarjalni svet
-Predstavitev zbirke Poetična oporoka
-
-Bralci tekstov: Marjana Pirc, Lev Detela, Urh Ferlež, Damijan Ahlin.</content:encoded>
     </item>
   </channel>
 </rss>
