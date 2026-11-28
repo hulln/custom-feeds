@@ -5,9 +5,73 @@
     <link>https://mailman.ijs.si/pipermail/slovlit/</link>
     <description>Neuradni RSS za javni arhiv poštnega seznama SlovLit.</description>
     <language>sl</language>
-    <lastBuildDate>Sat, 28 Nov 2026 00:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:46:03 +0000</lastBuildDate>
     <generator>Custom Feeds – SlovLit</generator>
     <atom:link href="https://raw.githubusercontent.com/hulln/custom-feeds/main/slovlit/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[SlovLit] Natečaj za magisterije -- Angleška literarna klasika in UI -- Literatura in digitalizacija</title>
+      <link>https://mailman.ijs.si/pipermail/slovlit/2026/008974.html</link>
+      <guid isPermaLink="false">urn:slovlit:008974:fulltext-v2</guid>
+      <pubDate>28 Nov 2026 08:33:20 +0100</pubDate>
+      <description>From: Irena Grahek &lt;Irena.Grahek na gov.si&gt;
+To: "slovlit na ijs.si" &lt;slovlit na ijs.si&gt;
+Date: Fri, 27 Nov 2026 09:33:03 +0000
+Subject: Efnilov nagradni natečaj za magistrska dela
+
+Spoštovani, Efnil – Evropsko združenje nacionalnih ustanov za jezik
+poziva študentke in študente, naj se prijavijo na novi natečaj za
+najboljša magistrska dela v Evropi s področja rabe jezika, jezikovne
+politike in večjezičnosti: Efnilov nagradni natečaj za najboljša
+magistrska dela 2027
+(https://www.gov.si/novice/2026-11-25-efnilov-nagradni-natecaj-za-najboljsa-magistrska-dela-2027/
+, https://isjfr.zrc-sazu.si/sl/novice/efnilov-nagradni-natecaj-za-najboljsa-magistrska-dela-2027).
+
+Vabimo vas k sodelovanju.
+Ministrstvo za kulturo
+ZRC SAZU, Inštitut Frana Ramovša za slovenski jezik
+
+===
+
+https://mailchi.mp/f8997ffb6bb9/pranger-2023-najava-17486238 --
+Angleška literarna klasika in UI. Prevodni pranger 2. 12. 2026 ob
+17.00, Lutkovno gledališče Maribor, Mala dvorana.
+
+===
+
+https://www.ludliteratura.si/intervju/z-drugimi-besedami-manj-podpovprecnosti-a-tudi-manj-raznolikosti/
+-- Z drugimi besedami: manj podpovprečnosti, a tudi manj raznolikosti:
+Pogovor o literaturi in digitalizaciji z Martinom Justinom, Anjo
+Kamenarič in Jako Gerčarjem: LUD Literatura 9. 11. 2026.</description>
+      <content:encoded>From: Irena Grahek &lt;Irena.Grahek na gov.si&gt;
+To: "slovlit na ijs.si" &lt;slovlit na ijs.si&gt;
+Date: Fri, 27 Nov 2026 09:33:03 +0000
+Subject: Efnilov nagradni natečaj za magistrska dela
+
+Spoštovani, Efnil – Evropsko združenje nacionalnih ustanov za jezik
+poziva študentke in študente, naj se prijavijo na novi natečaj za
+najboljša magistrska dela v Evropi s področja rabe jezika, jezikovne
+politike in večjezičnosti: Efnilov nagradni natečaj za najboljša
+magistrska dela 2027
+(https://www.gov.si/novice/2026-11-25-efnilov-nagradni-natecaj-za-najboljsa-magistrska-dela-2027/
+, https://isjfr.zrc-sazu.si/sl/novice/efnilov-nagradni-natecaj-za-najboljsa-magistrska-dela-2027).
+
+Vabimo vas k sodelovanju.
+Ministrstvo za kulturo
+ZRC SAZU, Inštitut Frana Ramovša za slovenski jezik
+
+===
+
+https://mailchi.mp/f8997ffb6bb9/pranger-2023-najava-17486238 --
+Angleška literarna klasika in UI. Prevodni pranger 2. 12. 2026 ob
+17.00, Lutkovno gledališče Maribor, Mala dvorana.
+
+===
+
+https://www.ludliteratura.si/intervju/z-drugimi-besedami-manj-podpovprecnosti-a-tudi-manj-raznolikosti/
+-- Z drugimi besedami: manj podpovprečnosti, a tudi manj raznolikosti:
+Pogovor o literaturi in digitalizaciji z Martinom Justinom, Anjo
+Kamenarič in Jako Gerčarjem: LUD Literatura 9. 11. 2026.</content:encoded>
+    </item>
     <item>
       <title>[SlovLit] Novičnik CLARIN -- Razpis za Bukarešto</title>
       <link>https://mailman.ijs.si/pipermail/slovlit/2026/008973.html</link>
@@ -4837,62 +4901,6 @@ Vabljeni na odprtje likovne razstave Od Gregorčiča do Kosovela, v
 dvogovoru s pesnikoma se bo s svojimi likovnimi deli predstavil slikar
 Janko Jesenko. Za spremljajoči program bodo poskrbeli glasbenika Žiga
 Jereb in Bor Kopač ter recitator Denis Jurca.</content:encoded>
-    </item>
-    <item>
-      <title>[SlovLit] *Psevdolog -- Novičnik DSKP -- Občanska znanost v Mariboru</title>
-      <link>https://mailman.ijs.si/pipermail/slovlit/2026/008944.html</link>
-      <guid isPermaLink="false">urn:slovlit:008944:fulltext-v2</guid>
-      <pubDate>02 Nov 2026 09:46:48 +0100</pubDate>
-      <description>https://wordsmith.org/words/pseudologue.html -- pseudologue 'patološki
-lažnivec'. A.Word.A.Day 2. 11. 2026. Današnjo besedo psevdolog
-(slovenščina je ne pozna, geslo psevdologija pa je v 38 jezikih na
-Wikipediji, npr. https://de.wikipedia.org/wiki/Pseudologie) je urednik
-portala Anu Garg uvedel s citatom iz Shakespearejeve igre Dober konec
-vse povrne (All’s Well That Ends Well): »"je nadvse izrazit
-strahopetec, brezmejen in nepopravljiv lažnivec, človek, ki vsako uro
-prekrši kakšno obljubo, in nekdo, ki nima niti ene same dobre
-lastnosti". Na srečo je igra stara več kot 400 let. In gre za fikcijo.
-Ne poznam nikogar, ki bi danes ustrezal takšnemu opisu. Zaradi nas
-samih in zaradi preostalega sveta upajmo, da se bodo jutrišnje volitve
-v ZDA dobro končale.«
-
-===
-
-https://www.dskp-drustvo.si/novicnik-dskp-48/ -- Novičnik DSKP 30. okt. 2026.
-
-===
-
-https://citizenscience.si/dan-obcanske-znanosti-2026/ -- program 4.
-dneva občanske znanosti v Mariboru 5. novembra 2026; portal Govorjena
-slovenščina predstavlja Darinka Verdonik, jaz pa zemljevid
-partizanskih spomenikov
-(https://citizenscience.si/wp-content/uploads/2026/11/zbornik-2026-1.pdf).
--- mh</description>
-      <content:encoded>https://wordsmith.org/words/pseudologue.html -- pseudologue 'patološki
-lažnivec'. A.Word.A.Day 2. 11. 2026. Današnjo besedo psevdolog
-(slovenščina je ne pozna, geslo psevdologija pa je v 38 jezikih na
-Wikipediji, npr. https://de.wikipedia.org/wiki/Pseudologie) je urednik
-portala Anu Garg uvedel s citatom iz Shakespearejeve igre Dober konec
-vse povrne (All’s Well That Ends Well): »"je nadvse izrazit
-strahopetec, brezmejen in nepopravljiv lažnivec, človek, ki vsako uro
-prekrši kakšno obljubo, in nekdo, ki nima niti ene same dobre
-lastnosti". Na srečo je igra stara več kot 400 let. In gre za fikcijo.
-Ne poznam nikogar, ki bi danes ustrezal takšnemu opisu. Zaradi nas
-samih in zaradi preostalega sveta upajmo, da se bodo jutrišnje volitve
-v ZDA dobro končale.«
-
-===
-
-https://www.dskp-drustvo.si/novicnik-dskp-48/ -- Novičnik DSKP 30. okt. 2026.
-
-===
-
-https://citizenscience.si/dan-obcanske-znanosti-2026/ -- program 4.
-dneva občanske znanosti v Mariboru 5. novembra 2026; portal Govorjena
-slovenščina predstavlja Darinka Verdonik, jaz pa zemljevid
-partizanskih spomenikov
-(https://citizenscience.si/wp-content/uploads/2026/11/zbornik-2026-1.pdf).
--- mh</content:encoded>
     </item>
   </channel>
 </rss>
